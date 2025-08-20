@@ -1,0 +1,17 @@
+[project]
+name = "kfood-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "jupyter>=1.1.1",
+    "kiwipiepy>=0.21.0",
+    "konlpy>=0.6.0",
+    "mecab-python3>=1.0.10",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.1",
+    "requests>=2.32.4",
+    "scikit-learn>=1.7.1",
+]

@@ -5,7 +5,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uac08\ube44\uad6c\uc774"
+    "image_name": "\uac08\ube44\uad6c\uc774",
+    "similarity": [
+      "D082010",
+      "D072007",
+      "D072006",
+      "D072010",
+      "D082023"
+    ]
   },
   {
     "code": "D081003",
@@ -13,7 +20,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uac08\uce58\uad6c\uc774"
+    "image_name": "\uac08\uce58\uad6c\uc774",
+    "similarity": [
+      "D081003",
+      "D121002",
+      "D071003",
+      "D061002",
+      "D111002"
+    ]
   },
   {
     "code": "D081004",
@@ -21,7 +35,14 @@
     "kfood_code": "56908",
     "kfood_name": "\uace0\ub4f1\uc5b4\uad6c\uc774",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uace0\ub4f1\uc5b4\uad6c\uc774"
+    "image_name": "\uace0\ub4f1\uc5b4\uad6c\uc774",
+    "similarity": [
+      "D081004",
+      "D081042",
+      "D121004",
+      "D081041",
+      "D081051"
+    ]
   },
   {
     "code": "D082001",
@@ -29,7 +50,14 @@
     "kfood_code": "56909",
     "kfood_name": "\uacf1\ucc3d\uad6c\uc774",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uacf1\ucc3d\uad6c\uc774"
+    "image_name": "\uacf1\ucc3d\uad6c\uc774",
+    "similarity": [
+      "D082001",
+      "D064001",
+      "D015019",
+      "D103046",
+      "D103040"
+    ]
   },
   {
     "code": "D102003",
@@ -37,7 +65,14 @@
     "kfood_code": "56916",
     "kfood_name": "\ub2ed\uac08\ube44",
     "image_type": "\uad6c\uc774",
-    "image_name": "\ub2ed\uac08\ube44"
+    "image_name": "\ub2ed\uac08\ube44",
+    "similarity": [
+      "D102003",
+      "D102011",
+      "D102043",
+      "D102042",
+      "D082018"
+    ]
   },
   {
     "code": "D083003",
@@ -45,7 +80,14 @@
     "kfood_code": "56926",
     "kfood_name": "\ub354\ub355\uad6c\uc774",
     "image_type": "\uad6c\uc774",
-    "image_name": "\ub354\ub355\uad6c\uc774"
+    "image_name": "\ub354\ub355\uad6c\uc774",
+    "similarity": [
+      "D083003",
+      "D132094",
+      "D170014",
+      "D083010",
+      "D135011"
+    ]
   },
   {
     "code": "D082023",
@@ -53,7 +95,14 @@
     "kfood_code": "56911",
     "kfood_name": "\ub5a1\uac08\ube44",
     "image_type": "\uad6c\uc774",
-    "image_name": "\ub5a1\uac08\ube44"
+    "image_name": "\ub5a1\uac08\ube44",
+    "similarity": [
+      "D082023",
+      "D072006",
+      "D072007",
+      "D072011",
+      "D072010"
+    ]
   },
   {
     "code": "D102033",
@@ -61,7 +110,14 @@
     "kfood_code": "56912",
     "kfood_name": "\ubd88\uace0\uae30",
     "image_type": "\uad6c\uc774",
-    "image_name": "\ubd88\uace0\uae30"
+    "image_name": "\ubd88\uace0\uae30",
+    "similarity": [
+      "D102033",
+      "D102034",
+      "D102037",
+      "D082007",
+      "D102015"
+    ]
   },
   {
     "code": "D082009",
@@ -69,7 +125,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uc0bc\uacb9\uc0b4"
+    "image_name": "\uc0bc\uacb9\uc0b4",
+    "similarity": [
+      "D082009",
+      "D291001",
+      "D180009",
+      "D083002",
+      "D125006"
+    ]
   },
   {
     "code": "D081032",
@@ -77,15 +140,14 @@
     "kfood_code": "56923",
     "kfood_name": "\uc7a5\uc5b4\uad6c\uc774",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uc7a5\uc5b4\uad6c\uc774"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\uad6c\uc774",
-    "image_name": "\uc870\uac1c\uad6c\uc774"
+    "image_name": "\uc7a5\uc5b4\uad6c\uc774",
+    "similarity": [
+      "D081032",
+      "D081047",
+      "D081053",
+      "D081054",
+      "D081018"
+    ]
   },
   {
     "code": "D081058",
@@ -93,7 +155,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6c\uc774",
-    "image_name": "\uc870\uae30\uad6c\uc774"
+    "image_name": "\uc870\uae30\uad6c\uc774",
+    "similarity": [
+      "D081058",
+      "D081035",
+      "D071036",
+      "D071024",
+      "D121037"
+    ]
   },
   {
     "code": "D081023",
@@ -101,15 +170,14 @@
     "kfood_code": "56927",
     "kfood_name": "\ud669\ud0dc\uad6c\uc774",
     "image_type": "\uad6c\uc774",
-    "image_name": "\ud669\ud0dc\uad6c\uc774"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\uad6c\uc774",
-    "image_name": "\ud6c8\uc81c\uc624\ub9ac"
+    "image_name": "\ud669\ud0dc\uad6c\uc774",
+    "similarity": [
+      "D081023",
+      "D081048",
+      "D133040",
+      "D081049",
+      "D111020"
+    ]
   },
   {
     "code": "D052035",
@@ -117,7 +185,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6d",
-    "image_name": "\uc2dc\ub798\uae30\uad6d"
+    "image_name": "\uc2dc\ub798\uae30\uad6d",
+    "similarity": [
+      "D052035",
+      "D052036",
+      "D053021",
+      "D053004",
+      "D052056"
+    ]
   },
   {
     "code": "D051072",
@@ -125,7 +200,14 @@
     "kfood_code": "56845",
     "kfood_name": "\ucf69\ub098\ubb3c\uad6d",
     "image_type": "\uad6d",
-    "image_name": "\ucf69\ub098\ubb3c\uad6d"
+    "image_name": "\ucf69\ub098\ubb3c\uad6d",
+    "similarity": [
+      "D051072",
+      "D051073",
+      "D051078",
+      "D051074",
+      "D051079"
+    ]
   },
   {
     "code": "D053027",
@@ -133,7 +215,14 @@
     "kfood_code": "56858",
     "kfood_name": "\uc721\uac1c\uc7a5",
     "image_type": "\uad6d",
-    "image_name": "\uc721\uac1c\uc7a5"
+    "image_name": "\uc721\uac1c\uc7a5",
+    "similarity": [
+      "D053027",
+      "D053028",
+      "D051108",
+      "D051048",
+      "D053035"
+    ]
   },
   {
     "code": "D051102",
@@ -141,7 +230,14 @@
     "kfood_code": "56847",
     "kfood_name": "\ubd81\uc5c7\uad6d",
     "image_type": "\uad6d",
-    "image_name": "\ubd81\uc5c7\uad6d"
+    "image_name": "\ubd81\uc5c7\uad6d",
+    "similarity": [
+      "D051102",
+      "D051054",
+      "D051055",
+      "D051111",
+      "D051037"
+    ]
   },
   {
     "code": "D032006",
@@ -149,7 +245,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6d",
-    "image_name": "\ub5a1\uad6d_\ub9cc\ub450\uad6d"
+    "image_name": "\ub5a1\uad6d_\ub9cc\ub450\uad6d",
+    "similarity": [
+      "D032006",
+      "D032005",
+      "D051035",
+      "D012028",
+      "D051047"
+    ]
   },
   {
     "code": "D051007",
@@ -157,7 +260,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6d",
-    "image_name": "\uacc4\ub780\uad6d"
+    "image_name": "\uacc4\ub780\uad6d",
+    "similarity": [
+      "D051007",
+      "D051081",
+      "D051008",
+      "D051126",
+      "D012028"
+    ]
   },
   {
     "code": "D051127",
@@ -165,7 +275,14 @@
     "kfood_code": "56844",
     "kfood_name": "\ubbf8\uc5ed\uad6d",
     "image_type": "\uad6d",
-    "image_name": "\ubbf8\uc5ed\uad6d"
+    "image_name": "\ubbf8\uc5ed\uad6d",
+    "similarity": [
+      "D051127",
+      "D053027",
+      "D053028",
+      "D051129",
+      "D051108"
+    ]
   },
   {
     "code": "D051037",
@@ -173,7 +290,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uad6d",
-    "image_name": "\ubb34\uad6d"
+    "image_name": "\ubb34\uad6d",
+    "similarity": [
+      "D051037",
+      "D051111",
+      "D051040",
+      "D051054",
+      "D051055"
+    ]
   },
   {
     "code": "D072009",
@@ -181,7 +305,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\ud3b8\uc721"
+    "image_name": "\ud3b8\uc721",
+    "similarity": [
+      "D072009",
+      "D180288",
+      "D180289",
+      "D180109",
+      "D180110"
+    ]
   },
   {
     "code": "D114021",
@@ -189,7 +320,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\ucf69\uc790\ubc18"
+    "image_name": "\ucf69\uc790\ubc18",
+    "similarity": [
+      "D114021",
+      "D114020",
+      "D012028",
+      "D051047",
+      "D203018"
+    ]
   },
   {
     "code": "D122013",
@@ -197,7 +335,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\uc591\ub150\uce58\ud0a8"
+    "image_name": "\uc591\ub150\uce58\ud0a8",
+    "similarity": [
+      "D122013",
+      "D287024",
+      "D102001",
+      "D287009",
+      "D101013"
+    ]
   },
   {
     "code": "D160007",
@@ -205,7 +350,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\uc813\uac08"
+    "image_name": "\uc813\uac08",
+    "similarity": [
+      "D160007",
+      "D140076",
+      "D081053"
+    ]
   },
   {
     "code": "D122003",
@@ -213,7 +363,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\ud6c4\ub77c\uc774\ub4dc\uce58\ud0a8"
+    "image_name": "\ud6c4\ub77c\uc774\ub4dc\uce58\ud0a8",
+    "similarity": [
+      "D122003",
+      "D122002",
+      "D122001",
+      "D122008",
+      "D124012"
+    ]
   },
   {
     "code": "D288005",
@@ -221,7 +378,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\uacfc\uba54\uae30"
+    "image_name": "\uacfc\uba54\uae30",
+    "similarity": [
+      "D288005",
+      "D180003",
+      "D180148",
+      "D180322",
+      "D180218"
+    ]
   },
   {
     "code": "D311052",
@@ -229,7 +393,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae30\ud0c0",
-    "image_name": "\ud53c\uc790"
+    "image_name": "\ud53c\uc790",
+    "similarity": [
+      "D311052",
+      "D081053",
+      "D081052"
+    ]
   },
   {
     "code": "D140076",
@@ -237,7 +406,14 @@
     "kfood_code": "56949",
     "kfood_name": "\ubb34\uc0dd\ucc44",
     "image_type": "\uae40\uce58",
-    "image_name": "\ubb34\uc0dd\ucc44"
+    "image_name": "\ubb34\uc0dd\ucc44",
+    "similarity": [
+      "D140076",
+      "D132101",
+      "D132011",
+      "D132081",
+      "D132077"
+    ]
   },
   {
     "code": "D140058",
@@ -245,7 +421,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae40\uce58",
-    "image_name": "\ud30c\uae40\uce58"
+    "image_name": "\ud30c\uae40\uce58",
+    "similarity": [
+      "D140015",
+      "D140058",
+      "D140055"
+    ]
   },
   {
     "code": "D140062",
@@ -253,7 +434,14 @@
     "kfood_code": "56946",
     "kfood_name": "\ubc31\uae40\uce58",
     "image_type": "\uae40\uce58",
-    "image_name": "\ubc31\uae40\uce58"
+    "image_name": "\ubc31\uae40\uce58",
+    "similarity": [
+      "D140062",
+      "D140059",
+      "D140060",
+      "D140008",
+      "D140043"
+    ]
   },
   {
     "code": "D140057",
@@ -261,7 +449,14 @@
     "kfood_code": "56948",
     "kfood_name": "\uc5f4\ubb34\uae40\uce58",
     "image_type": "\uae40\uce58",
-    "image_name": "\uc5f4\ubb34\uae40\uce58"
+    "image_name": "\uc5f4\ubb34\uae40\uce58",
+    "similarity": [
+      "D140012",
+      "D140057",
+      "D140054",
+      "D014025",
+      "D014008"
+    ]
   },
   {
     "code": "D140027",
@@ -269,7 +464,14 @@
     "kfood_code": "56943",
     "kfood_name": "\uae4d\ub450\uae30",
     "image_type": "\uae40\uce58",
-    "image_name": "\uae4d\ub450\uae30"
+    "image_name": "\uae4d\ub450\uae30",
+    "similarity": [
+      "D140027",
+      "D292004",
+      "D132101",
+      "D132011",
+      "D132081"
+    ]
   },
   {
     "code": "D140029",
@@ -277,7 +479,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae40\uce58",
-    "image_name": "\uac13\uae40\uce58"
+    "image_name": "\uac13\uae40\uce58",
+    "similarity": [
+      "D140029",
+      "D054002",
+      "D053039",
+      "D051044",
+      "D051047"
+    ]
   },
   {
     "code": "D140069",
@@ -285,7 +494,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uae40\uce58",
-    "image_name": "\ubd80\ucd94\uae40\uce58"
+    "image_name": "\ubd80\ucd94\uae40\uce58",
+    "similarity": [
+      "D140069",
+      "D140010",
+      "D292055",
+      "D132102",
+      "D140042"
+    ]
   },
   {
     "code": "D140061",
@@ -293,7 +509,12 @@
     "kfood_code": "56944",
     "kfood_name": "\ub098\ubc15\uae40\uce58",
     "image_type": "\uae40\uce58",
-    "image_name": "\ub098\ubc15\uae40\uce58"
+    "image_name": "\ub098\ubc15\uae40\uce58",
+    "similarity": [
+      "D140061",
+      "D140068",
+      "D140005"
+    ]
   },
   {
     "code": "D140030",
@@ -301,7 +522,14 @@
     "kfood_code": "56941",
     "kfood_name": "\ubc30\ucd94\uae40\uce58",
     "image_type": "\uae40\uce58",
-    "image_name": "\ubc30\ucd94\uae40\uce58"
+    "image_name": "\ubc30\ucd94\uae40\uce58",
+    "similarity": [
+      "D140030",
+      "D052028",
+      "D052020",
+      "D052024",
+      "D052022"
+    ]
   },
   {
     "code": "D140064",
@@ -309,7 +537,14 @@
     "kfood_code": "56950",
     "kfood_name": "\uc624\uc774\uc18c\ubc15\uc774",
     "image_type": "\uae40\uce58",
-    "image_name": "\uc624\uc774\uc18c\ubc15\uc774"
+    "image_name": "\uc624\uc774\uc18c\ubc15\uc774",
+    "similarity": [
+      "D140064",
+      "D292012",
+      "D135022",
+      "D103047",
+      "D103063"
+    ]
   },
   {
     "code": "D140051",
@@ -317,7 +552,14 @@
     "kfood_code": "56951",
     "kfood_name": "\ucd1d\uac01\uae40\uce58",
     "image_type": "\uae40\uce58",
-    "image_name": "\ucd1d\uac01\uae40\uce58"
+    "image_name": "\ucd1d\uac01\uae40\uce58",
+    "similarity": [
+      "D140014",
+      "D140066",
+      "D140049",
+      "D140048",
+      "D140047"
+    ]
   },
   {
     "code": "D103001",
@@ -325,7 +567,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\uac00\uc9c0\ubcf6\uc74c"
+    "image_name": "\uac00\uc9c0\ubcf6\uc74c",
+    "similarity": [
+      "D103001",
+      "D132001",
+      "D132044",
+      "D132045",
+      "D093001"
+    ]
   },
   {
     "code": "D103012",
@@ -333,7 +582,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\uace0\uc0ac\ub9ac\ub098\ubb3c"
+    "image_name": "\uace0\uc0ac\ub9ac\ub098\ubb3c",
+    "similarity": [
+      "D103012",
+      "D103013",
+      "D093022",
+      "D132053",
+      "D014024"
+    ]
   },
   {
     "code": "D103061",
@@ -341,7 +597,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\uc560\ud638\ubc15\ubcf6\uc74c"
+    "image_name": "\uc560\ud638\ubc15\ubcf6\uc74c",
+    "similarity": [
+      "D103061",
+      "D132086",
+      "D132089",
+      "D132042",
+      "D132069"
+    ]
   },
   {
     "code": "D103030",
@@ -349,7 +612,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\ubbf8\uc5ed\uc904\uae30\ubcf6\uc74c"
+    "image_name": "\ubbf8\uc5ed\uc904\uae30\ubcf6\uc74c",
+    "similarity": [
+      "D103030",
+      "D123015",
+      "D123002",
+      "D103054",
+      "D103046"
+    ]
   },
   {
     "code": "D132083",
@@ -357,7 +627,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\uc219\uc8fc\ub098\ubb3c"
+    "image_name": "\uc219\uc8fc\ub098\ubb3c",
+    "similarity": [
+      "D132083",
+      "D132020",
+      "D132022",
+      "D132021",
+      "D095010"
+    ]
   },
   {
     "code": "D132023",
@@ -365,7 +642,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ub098\ubb3c",
-    "image_name": "\uc2dc\uae08\uce58\ub098\ubb3c"
+    "image_name": "\uc2dc\uae08\uce58\ub098\ubb3c",
+    "similarity": [
+      "D132023",
+      "D132025",
+      "D292070",
+      "D132024",
+      "D064011"
+    ]
   },
   {
     "code": "D230049",
@@ -373,7 +657,14 @@
     "kfood_code": "56980",
     "kfood_name": "\uacbd\ub2e8",
     "image_type": "\ub5a1",
-    "image_name": "\uacbd\ub2e8"
+    "image_name": "\uacbd\ub2e8",
+    "similarity": [
+      "D230049",
+      "D230059",
+      "D201017",
+      "D022008",
+      "D230039"
+    ]
   },
   {
     "code": "D230005",
@@ -381,7 +672,12 @@
     "kfood_code": "56982",
     "kfood_name": "\uafc0\ub5a1",
     "image_type": "\ub5a1",
-    "image_name": "\uafc0\ub5a1"
+    "image_name": "\uafc0\ub5a1",
+    "similarity": [
+      "D230005",
+      "D081054",
+      "D081053"
+    ]
   },
   {
     "code": "D230064",
@@ -389,7 +685,12 @@
     "kfood_code": "56981",
     "kfood_name": "\uc1a1\ud3b8",
     "image_type": "\ub5a1",
-    "image_name": "\uc1a1\ud3b8"
+    "image_name": "\uc1a1\ud3b8",
+    "similarity": [
+      "D230064",
+      "D081054",
+      "D081053"
+    ]
   },
   {
     "code": "D032017",
@@ -397,7 +698,14 @@
     "kfood_code": "56842",
     "kfood_name": "\ub9cc\ub450",
     "image_type": "\ub9cc\ub450",
-    "image_name": "\ub9cc\ub450"
+    "image_name": "\ub9cc\ub450",
+    "similarity": [
+      "D032017",
+      "D032002",
+      "D065003",
+      "D063012",
+      "D065006"
+    ]
   },
   {
     "code": "D031055",
@@ -405,7 +713,14 @@
     "kfood_code": "56841",
     "kfood_name": "\ucf69\uad6d\uc218",
     "image_type": "\uba74",
-    "image_name": "\ucf69\uad6d\uc218"
+    "image_name": "\ucf69\uad6d\uc218",
+    "similarity": [
+      "D031055",
+      "D031008",
+      "D031013",
+      "D031011",
+      "D031050"
+    ]
   },
   {
     "code": "D031007",
@@ -413,7 +728,14 @@
     "kfood_code": "56834",
     "kfood_name": "\ube44\ube54\ub0c9\uba74",
     "image_type": "\uba74",
-    "image_name": "\ube44\ube54\ub0c9\uba74"
+    "image_name": "\ube44\ube54\ub0c9\uba74",
+    "similarity": [
+      "D031007",
+      "D031005",
+      "D051007",
+      "D053024",
+      "D051081"
+    ]
   },
   {
     "code": "D031009",
@@ -421,7 +743,14 @@
     "kfood_code": "56838",
     "kfood_name": "\uc218\uc81c\ube44",
     "image_type": "\uba74",
-    "image_name": "\uc218\uc81c\ube44"
+    "image_name": "\uc218\uc81c\ube44",
+    "similarity": [
+      "D031009",
+      "D051043",
+      "D051002",
+      "D051005",
+      "D051017"
+    ]
   },
   {
     "code": "D031050",
@@ -429,7 +758,14 @@
     "kfood_code": "56831",
     "kfood_name": "\uc794\uce58\uad6d\uc218",
     "image_type": "\uba74",
-    "image_name": "\uc794\uce58\uad6d\uc218"
+    "image_name": "\uc794\uce58\uad6d\uc218",
+    "similarity": [
+      "D031050",
+      "D031033",
+      "D031053",
+      "D031008",
+      "D031014"
+    ]
   },
   {
     "code": "D031017",
@@ -437,7 +773,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uba74",
-    "image_name": "\ucac4\uba74"
+    "image_name": "\ucac4\uba74",
+    "similarity": [
+      "D031017",
+      "D132104",
+      "D292012",
+      "D135022",
+      "D103047"
+    ]
   },
   {
     "code": "D031016",
@@ -445,7 +788,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uba74",
-    "image_name": "\uc9ec\ubf55"
+    "image_name": "\uc9ec\ubf55",
+    "similarity": [
+      "D031016",
+      "D031012",
+      "D053029",
+      "D012028",
+      "D052052"
+    ]
   },
   {
     "code": "D031058",
@@ -453,7 +803,14 @@
     "kfood_code": "56836",
     "kfood_name": "\uce7c\uad6d\uc218",
     "image_type": "\uba74",
-    "image_name": "\uce7c\uad6d\uc218"
+    "image_name": "\uce7c\uad6d\uc218",
+    "similarity": [
+      "D031058",
+      "D040036",
+      "D031046",
+      "D051104",
+      "D052061"
+    ]
   },
   {
     "code": "D031003",
@@ -461,7 +818,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uba74",
-    "image_name": "\ub77c\uba74"
+    "image_name": "\ub77c\uba74",
+    "similarity": [
+      "D031003",
+      "D051081",
+      "D051007",
+      "D051126",
+      "D051008"
+    ]
   },
   {
     "code": "D031004",
@@ -469,7 +833,14 @@
     "kfood_code": "56839",
     "kfood_name": "\ub9c9\uad6d\uc218",
     "image_type": "\uba74",
-    "image_name": "\ub9c9\uad6d\uc218"
+    "image_name": "\ub9c9\uad6d\uc218",
+    "similarity": [
+      "D031004",
+      "D051063",
+      "D051070",
+      "D051042",
+      "D051040"
+    ]
   },
   {
     "code": "D031011",
@@ -477,7 +848,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uba74",
-    "image_name": "\uc5f4\ubb34\uad6d\uc218"
+    "image_name": "\uc5f4\ubb34\uad6d\uc218",
+    "similarity": [
+      "D031011",
+      "D031013",
+      "D031008",
+      "D031014",
+      "D031050"
+    ]
   },
   {
     "code": "D031015",
@@ -485,7 +863,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uba74",
-    "image_name": "\uc9dc\uc7a5\uba74"
+    "image_name": "\uc9dc\uc7a5\uba74",
+    "similarity": [
+      "D031015",
+      "D031016",
+      "D031012",
+      "D052037",
+      "D053029"
+    ]
   },
   {
     "code": "D031005",
@@ -493,7 +878,14 @@
     "kfood_code": "56833",
     "kfood_name": "\ubb3c\ub0c9\uba74",
     "image_type": "\uba74",
-    "image_name": "\ubb3c\ub0c9\uba74"
+    "image_name": "\ubb3c\ub0c9\uba74",
+    "similarity": [
+      "D031005",
+      "D031007",
+      "D053016",
+      "D051063",
+      "D053020"
+    ]
   },
   {
     "code": "D132097",
@@ -501,7 +893,14 @@
     "kfood_code": "56964",
     "kfood_name": "\ub3c4\ud1a0\ub9ac\ubb35",
     "image_type": "\ubb34\uce68",
-    "image_name": "\ub3c4\ud1a0\ub9ac\ubb35"
+    "image_name": "\ub3c4\ud1a0\ub9ac\ubb35",
+    "similarity": [
+      "D132097",
+      "D135012",
+      "D114012",
+      "D281034",
+      "D105015"
+    ]
   },
   {
     "code": "D101010",
@@ -509,7 +908,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubb34\uce68",
-    "image_name": "\uaf48\ub9ac\uace0\ucd94\ubb34\uce68"
+    "image_name": "\uaf48\ub9ac\uace0\ucd94\ubb34\uce68",
+    "similarity": [
+      "D101010",
+      "D292020",
+      "D101009",
+      "D101007",
+      "D180224"
+    ]
   },
   {
     "code": "D135002",
@@ -517,7 +923,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubb34\uce68",
-    "image_name": "\ub3c4\ub77c\uc9c0\ubb34\uce68"
+    "image_name": "\ub3c4\ub77c\uc9c0\ubb34\uce68",
+    "similarity": [
+      "D135002",
+      "D132095",
+      "D170004",
+      "D132096",
+      "D180003"
+    ]
   },
   {
     "code": "D105017",
@@ -525,7 +938,14 @@
     "kfood_code": "56962",
     "kfood_name": "\uc7a1\ucc44",
     "image_type": "\ubb34\uce68",
-    "image_name": "\uc7a1\ucc44"
+    "image_name": "\uc7a1\ucc44",
+    "similarity": [
+      "D105017",
+      "D105008",
+      "D105007",
+      "D105005",
+      "D105004"
+    ]
   },
   {
     "code": "D133039",
@@ -533,7 +953,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubb34\uce68",
-    "image_name": "\ud64d\uc5b4\ubb34\uce68"
+    "image_name": "\ud64d\uc5b4\ubb34\uce68",
+    "similarity": [
+      "D133039",
+      "D071026",
+      "D061060",
+      "D053067",
+      "D133025"
+    ]
   },
   {
     "code": "D133039",
@@ -541,7 +968,14 @@
     "kfood_code": "56977",
     "kfood_name": "\ud68c\ubb34\uce68",
     "image_type": "\ubb34\uce68",
-    "image_name": "\ud68c\ubb34\uce68"
+    "image_name": "\ud68c\ubb34\uce68",
+    "similarity": [
+      "D133039",
+      "D071026",
+      "D061060",
+      "D053067",
+      "D133025"
+    ]
   },
   {
     "code": "D132063",
@@ -549,7 +983,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubb34\uce68",
-    "image_name": "\ucf69\ub098\ubb3c\ubb34\uce68"
+    "image_name": "\ucf69\ub098\ubb3c\ubb34\uce68",
+    "similarity": [
+      "D132063",
+      "D113019",
+      "D132036",
+      "D132038",
+      "D132061"
+    ]
   },
   {
     "code": "D011007",
@@ -557,15 +998,14 @@
     "kfood_code": "56799",
     "kfood_name": "\ub204\ub8fd\uc9c0",
     "image_type": "\ubc25",
-    "image_name": "\ub204\ub8fd\uc9c0"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ubc25",
-    "image_name": "\uc0c8\uc6b0\ubcf6\uc74c\ubc25"
+    "image_name": "\ub204\ub8fd\uc9c0",
+    "similarity": [
+      "D011007",
+      "D281009",
+      "D132100",
+      "D281004",
+      "D015025"
+    ]
   },
   {
     "code": "D016004",
@@ -573,7 +1013,14 @@
     "kfood_code": "56795",
     "kfood_name": "\uae40\ubc25",
     "image_type": "\ubc25",
-    "image_name": "\uae40\ubc25"
+    "image_name": "\uae40\ubc25",
+    "similarity": [
+      "D016004",
+      "D016003",
+      "D016001",
+      "D011002",
+      "D012002"
+    ]
   },
   {
     "code": "D014001",
@@ -581,7 +1028,14 @@
     "kfood_code": "56798",
     "kfood_name": "\uae40\uce58\ubcf6\uc74c\ubc25",
     "image_type": "\ubc25",
-    "image_name": "\uae40\uce58\ubcf6\uc74c\ubc25"
+    "image_name": "\uae40\uce58\ubcf6\uc74c\ubc25",
+    "similarity": [
+      "D014001",
+      "D014006",
+      "D014003",
+      "D014002",
+      "D016002"
+    ]
   },
   {
     "code": "D014019",
@@ -589,7 +1043,14 @@
     "kfood_code": "56801",
     "kfood_name": "\ube44\ube54\ubc25",
     "image_type": "\ubc25",
-    "image_name": "\ube44\ube54\ubc25"
+    "image_name": "\ube44\ube54\ubc25",
+    "similarity": [
+      "D014019",
+      "D014010",
+      "D015001",
+      "D015005",
+      "D014007"
+    ]
   },
   {
     "code": "D016006",
@@ -597,7 +1058,14 @@
     "kfood_code": "56800",
     "kfood_name": "\uc8fc\uba39\ubc25",
     "image_type": "\ubc25",
-    "image_name": "\uc8fc\uba39\ubc25"
+    "image_name": "\uc8fc\uba39\ubc25",
+    "similarity": [
+      "D016006",
+      "D011002",
+      "D012002",
+      "D012006",
+      "D012023"
+    ]
   },
   {
     "code": "D311040",
@@ -605,7 +1073,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubc25",
-    "image_name": "\uc54c\ubc25"
+    "image_name": "\uc54c\ubc25",
+    "similarity": [
+      "D311040",
+      "D081054",
+      "D081053"
+    ]
   },
   {
     "code": "D012050",
@@ -613,7 +1086,14 @@
     "kfood_code": "56791",
     "kfood_name": "\uc7a1\uace1\ubc25",
     "image_type": "\ubc25",
-    "image_name": "\uc7a1\uace1\ubc25"
+    "image_name": "\uc7a1\uace1\ubc25",
+    "similarity": [
+      "D012050",
+      "D012049",
+      "D013017",
+      "D012055",
+      "D012051"
+    ]
   },
   {
     "code": "D016010",
@@ -621,7 +1101,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubc25",
-    "image_name": "\uc720\ubd80\ucd08\ubc25"
+    "image_name": "\uc720\ubd80\ucd08\ubc25",
+    "similarity": [
+      "D016010",
+      "D016009",
+      "D011002",
+      "D012002",
+      "D012023"
+    ]
   },
   {
     "code": "D101016",
@@ -629,15 +1116,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uc5b4\ubb35\ubcf6\uc74c"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ubcf6\uc74c",
-    "image_name": "\ub77c\ubcf6\uc774"
+    "image_name": "\uc5b4\ubb35\ubcf6\uc74c",
+    "similarity": [
+      "D101016",
+      "D101018",
+      "D101021",
+      "D101020",
+      "D101017"
+    ]
   },
   {
     "code": "D103007",
@@ -645,7 +1131,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uac10\uc790\ucc44\ubcf6\uc74c"
+    "image_name": "\uac10\uc790\ucc44\ubcf6\uc74c",
+    "similarity": [
+      "D103007",
+      "D103060",
+      "D103006",
+      "D095016",
+      "D083001"
+    ]
   },
   {
     "code": "D101002",
@@ -653,7 +1146,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uac74\uc0c8\uc6b0\ubcf6\uc74c"
+    "image_name": "\uac74\uc0c8\uc6b0\ubcf6\uc74c",
+    "similarity": [
+      "D101002",
+      "D287009",
+      "D180045",
+      "D287024",
+      "D285004"
+    ]
   },
   {
     "code": "D101023",
@@ -661,15 +1161,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uc624\uc9d5\uc5b4\ucc44\ubcf6\uc74c"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ubcf6\uc74c",
-    "image_name": "\uace0\ucd94\uc7a5\uc9c4\ubbf8\ucc44\ubcf6\uc74c"
+    "image_name": "\uc624\uc9d5\uc5b4\ucc44\ubcf6\uc74c",
+    "similarity": [
+      "D101023",
+      "D288004",
+      "D180045",
+      "D180017",
+      "D180269"
+    ]
   },
   {
     "code": "D104016",
@@ -677,7 +1176,14 @@
     "kfood_code": "56903",
     "kfood_name": "\ub5a1\ubcf6\uc774",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\ub5a1\ubcf6\uc774"
+    "image_name": "\ub5a1\ubcf6\uc774",
+    "similarity": [
+      "D104016",
+      "D104005",
+      "D051090",
+      "D104012",
+      "D104003"
+    ]
   },
   {
     "code": "D102023",
@@ -685,15 +1191,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uc18c\uc138\uc9c0\ubcf6\uc74c"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ubcf6\uc74c",
-    "image_name": "\uc8fc\uafb8\ubbf8\ubcf6\uc74c"
+    "image_name": "\uc18c\uc138\uc9c0\ubcf6\uc74c",
+    "similarity": [
+      "D102023",
+      "D102024",
+      "D112014",
+      "D122012",
+      "D104025"
+    ]
   },
   {
     "code": "D102038",
@@ -701,7 +1206,14 @@
     "kfood_code": "56906",
     "kfood_name": "\uc81c\uc721\ubcf6\uc74c",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uc81c\uc721\ubcf6\uc74c"
+    "image_name": "\uc81c\uc721\ubcf6\uc74c",
+    "similarity": [
+      "D102038",
+      "D103046",
+      "D292010",
+      "D140011",
+      "D140070"
+    ]
   },
   {
     "code": "D103058",
@@ -709,7 +1221,14 @@
     "kfood_code": "56907",
     "kfood_name": "\ub450\ubd80\uae40\uce58",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\ub450\ubd80\uae40\uce58"
+    "image_name": "\ub450\ubd80\uae40\uce58",
+    "similarity": [
+      "D103058",
+      "D104002",
+      "D104001",
+      "D286001",
+      "D095007"
+    ]
   },
   {
     "code": "D101007",
@@ -717,7 +1236,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ubcf6\uc74c",
-    "image_name": "\uba78\uce58\ubcf6\uc74c"
+    "image_name": "\uba78\uce58\ubcf6\uc74c",
+    "similarity": [
+      "D101007",
+      "D288003",
+      "D101009",
+      "D133010",
+      "D111014"
+    ]
   },
   {
     "code": "D140033",
@@ -725,7 +1251,14 @@
     "kfood_code": "56890",
     "kfood_name": "\ubcf4\uc308",
     "image_type": "\uc308",
-    "image_name": "\ubcf4\uc308"
+    "image_name": "\ubcf4\uc308",
+    "similarity": [
+      "D140033",
+      "D140021",
+      "D140034",
+      "D133007",
+      "D061008"
+    ]
   },
   {
     "code": "D203006",
@@ -733,7 +1266,14 @@
     "kfood_code": "56994",
     "kfood_name": "\uc2dd\ud61c",
     "image_type": "\uc74c\uccad\ub958",
-    "image_name": "\uc2dd\ud61c"
+    "image_name": "\uc2dd\ud61c",
+    "similarity": [
+      "D203006",
+      "D201004",
+      "D022086",
+      "D230020",
+      "D022085"
+    ]
   },
   {
     "code": "D203005",
@@ -741,7 +1281,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc74c\uccad\ub958",
-    "image_name": "\uc218\uc815\uac00"
+    "image_name": "\uc218\uc815\uac00",
+    "similarity": [
+      "D203005",
+      "D212040",
+      "D180152",
+      "D180213",
+      "D180169"
+    ]
   },
   {
     "code": "D160002",
@@ -749,7 +1296,14 @@
     "kfood_code": "56956",
     "kfood_name": "\uac04\uc7a5\uac8c\uc7a5",
     "image_type": "\uc7a5",
-    "image_name": "\uac04\uc7a5\uac8c\uc7a5"
+    "image_name": "\uac04\uc7a5\uac8c\uc7a5",
+    "similarity": [
+      "D160002",
+      "D160018",
+      "D160019",
+      "D180176",
+      "D180132"
+    ]
   },
   {
     "code": "D160002",
@@ -757,7 +1311,14 @@
     "kfood_code": "56957",
     "kfood_name": "\uc591\ub150\uac8c\uc7a5",
     "image_type": "\uc7a5",
-    "image_name": "\uc591\ub150\uac8c\uc7a5"
+    "image_name": "\uc591\ub150\uac8c\uc7a5",
+    "similarity": [
+      "D160002",
+      "D160018",
+      "D160019",
+      "D180176",
+      "D180132"
+    ]
   },
   {
     "code": "D170003",
@@ -765,7 +1326,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc7a5\uc544\ucc0c",
-    "image_name": "\uae7b\uc78e\uc7a5\uc544\ucc0c"
+    "image_name": "\uae7b\uc78e\uc7a5\uc544\ucc0c",
+    "similarity": [
+      "D170003",
+      "D081054",
+      "D081053"
+    ]
   },
   {
     "code": "D083006",
@@ -773,7 +1339,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc801",
-    "image_name": "\ub5a1\uaf2c\uce58"
+    "image_name": "\ub5a1\uaf2c\uce58",
+    "similarity": [
+      "D083006",
+      "D230001",
+      "D287007",
+      "D051118",
+      "D114006"
+    ]
   },
   {
     "code": "D093002",
@@ -781,7 +1354,14 @@
     "kfood_code": "56931",
     "kfood_name": "\uac10\uc790\uc804",
     "image_type": "\uc804",
-    "image_name": "\uac10\uc790\uc804"
+    "image_name": "\uac10\uc790\uc804",
+    "similarity": [
+      "D093002",
+      "D124001",
+      "D093014",
+      "D124016",
+      "D095024"
+    ]
   },
   {
     "code": "D095001",
@@ -789,7 +1369,14 @@
     "kfood_code": "56940",
     "kfood_name": "\uacc4\ub780\ub9d0\uc774",
     "image_type": "\uc804",
-    "image_name": "\uacc4\ub780\ub9d0\uc774"
+    "image_name": "\uacc4\ub780\ub9d0\uc774",
+    "similarity": [
+      "D095004",
+      "D095001",
+      "D095003",
+      "D095005",
+      "D095002"
+    ]
   },
   {
     "code": "D093036",
@@ -797,7 +1384,14 @@
     "kfood_code": "56936",
     "kfood_name": "\ud30c\uc804",
     "image_type": "\uc804",
-    "image_name": "\ud30c\uc804"
+    "image_name": "\ud30c\uc804",
+    "similarity": [
+      "D093036",
+      "D093035",
+      "D281005",
+      "D093027",
+      "D230018"
+    ]
   },
   {
     "code": "D092010",
@@ -805,7 +1399,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc804",
-    "image_name": "\ub3d9\uadf8\ub791\ub561"
+    "image_name": "\ub3d9\uadf8\ub791\ub561",
+    "similarity": [
+      "D092010",
+      "D092001",
+      "D122007",
+      "D122006",
+      "D102012"
+    ]
   },
   {
     "code": "D093005",
@@ -813,7 +1414,14 @@
     "kfood_code": "56932",
     "kfood_name": "\uae40\uce58\uc804",
     "image_type": "\uc804",
-    "image_name": "\uae40\uce58\uc804"
+    "image_name": "\uae40\uce58\uc804",
+    "similarity": [
+      "D093005",
+      "D065020",
+      "D065019",
+      "D103016",
+      "D103017"
+    ]
   },
   {
     "code": "D095005",
@@ -821,7 +1429,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc804",
-    "image_name": "\uacc4\ub780\ud6c4\ub77c\uc774"
+    "image_name": "\uacc4\ub780\ud6c4\ub77c\uc774",
+    "similarity": [
+      "D095005",
+      "D095002",
+      "D102001",
+      "D095004",
+      "D095001"
+    ]
   },
   {
     "code": "D091005",
@@ -829,7 +1444,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc804",
-    "image_name": "\uc0dd\uc120\uc804"
+    "image_name": "\uc0dd\uc120\uc804",
+    "similarity": [
+      "D091005",
+      "D133009",
+      "D111012",
+      "D095024",
+      "D102001"
+    ]
   },
   {
     "code": "D093039",
@@ -837,7 +1459,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc804",
-    "image_name": "\ud638\ubc15\uc804"
+    "image_name": "\ud638\ubc15\uc804",
+    "similarity": [
+      "D093039",
+      "D093020",
+      "D093037",
+      "D093038",
+      "D103061"
+    ]
   },
   {
     "code": "D064001",
@@ -845,7 +1474,14 @@
     "kfood_code": "56877",
     "kfood_name": "\uacf1\ucc3d\uc804\uace8",
     "image_type": "\uc804\uace8",
-    "image_name": "\uacf1\ucc3d\uc804\uace8"
+    "image_name": "\uacf1\ucc3d\uc804\uace8",
+    "similarity": [
+      "D064001",
+      "D082001",
+      "D064002",
+      "D112024",
+      "D102036"
+    ]
   },
   {
     "code": "D113012",
@@ -853,7 +1489,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uc6b0\uc5c9\uc870\ub9bc"
+    "image_name": "\uc6b0\uc5c9\uc870\ub9bc",
+    "similarity": [
+      "D113012",
+      "D103049",
+      "D113013",
+      "D113014",
+      "D112021"
+    ]
   },
   {
     "code": "D113011",
@@ -861,7 +1504,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uc5f0\uadfc\uc870\ub9bc"
+    "image_name": "\uc5f0\uadfc\uc870\ub9bc",
+    "similarity": [
+      "D113011",
+      "D093015",
+      "D123005",
+      "D287024",
+      "D285004"
+    ]
   },
   {
     "code": "D111040",
@@ -869,7 +1519,14 @@
     "kfood_code": "56897",
     "kfood_name": "\uace0\ub4f1\uc5b4\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uace0\ub4f1\uc5b4\uc870\ub9bc"
+    "image_name": "\uace0\ub4f1\uc5b4\uc870\ub9bc",
+    "similarity": [
+      "D111040",
+      "D081041",
+      "D081042",
+      "D081051",
+      "D121004"
+    ]
   },
   {
     "code": "D112029",
@@ -877,7 +1534,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uba54\ucd94\ub9ac\uc54c\uc7a5\uc870\ub9bc"
+    "image_name": "\uba54\ucd94\ub9ac\uc54c\uc7a5\uc870\ub9bc",
+    "similarity": [
+      "D112029",
+      "D112009",
+      "D284003",
+      "D124009",
+      "D112008"
+    ]
   },
   {
     "code": "D111002",
@@ -885,7 +1549,14 @@
     "kfood_code": "56896",
     "kfood_name": "\uac08\uce58\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uac08\uce58\uc870\ub9bc"
+    "image_name": "\uac08\uce58\uc870\ub9bc",
+    "similarity": [
+      "D111002",
+      "D071003",
+      "D061002",
+      "D121002",
+      "D081003"
+    ]
   },
   {
     "code": "D111008",
@@ -893,7 +1564,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uaf41\uce58\uc870\ub9bc"
+    "image_name": "\uaf41\uce58\uc870\ub9bc",
+    "similarity": [
+      "D111008",
+      "D111009",
+      "D081007",
+      "D121007",
+      "D101004"
+    ]
   },
   {
     "code": "D112023",
@@ -901,7 +1579,14 @@
     "kfood_code": "56899",
     "kfood_name": "\uc7a5\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uc7a5\uc870\ub9bc"
+    "image_name": "\uc7a5\uc870\ub9bc",
+    "similarity": [
+      "D112023",
+      "D063021",
+      "D064015",
+      "D053040",
+      "D051127"
+    ]
   },
   {
     "code": "D114015",
@@ -909,7 +1594,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\ub545\ucf69\uc870\ub9bc"
+    "image_name": "\ub545\ucf69\uc870\ub9bc",
+    "similarity": [
+      "D114015",
+      "D012028",
+      "D051047",
+      "D051044",
+      "D203018"
+    ]
   },
   {
     "code": "D114014",
@@ -917,7 +1609,14 @@
     "kfood_code": "56901",
     "kfood_name": "\ub450\ubd80\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\ub450\ubd80\uc870\ub9bc"
+    "image_name": "\ub450\ubd80\uc870\ub9bc",
+    "similarity": [
+      "D114014",
+      "D114013",
+      "D104001",
+      "D286001",
+      "D104002"
+    ]
   },
   {
     "code": "D111038",
@@ -925,7 +1624,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\ucf54\ub2e4\ub9ac\uc870\ub9bc"
+    "image_name": "\ucf54\ub2e4\ub9ac\uc870\ub9bc",
+    "similarity": [
+      "D111038",
+      "D071025",
+      "D061057",
+      "D071032",
+      "D081046"
+    ]
   },
   {
     "code": "D113002",
@@ -933,7 +1639,14 @@
     "kfood_code": "56900",
     "kfood_name": "\uac10\uc790\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
-    "image_name": "\uac10\uc790\uc870\ub9bc"
+    "image_name": "\uac10\uc790\uc870\ub9bc",
+    "similarity": [
+      "D113002",
+      "D281001",
+      "D012043",
+      "D230014",
+      "D113003"
+    ]
   },
   {
     "code": "D152002",
@@ -941,7 +1654,14 @@
     "kfood_code": "56978",
     "kfood_name": "\uc721\ud68c",
     "image_type": "\ud68c",
-    "image_name": "\uc721\ud68c"
+    "image_name": "\uc721\ud68c",
+    "similarity": [
+      "D152002",
+      "D311007",
+      "D135023",
+      "D095034",
+      "D095021"
+    ]
   },
   {
     "code": "D151012",
@@ -949,7 +1669,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud68c",
-    "image_name": "\ubb3c\ud68c"
+    "image_name": "\ubb3c\ud68c",
+    "similarity": [
+      "D151012",
+      "D051105",
+      "D051069",
+      "D052050",
+      "D053031"
+    ]
   },
   {
     "code": "D040058",
@@ -957,7 +1684,14 @@
     "kfood_code": "56828",
     "kfood_name": "\uc804\ubcf5\uc8fd",
     "image_type": "\uc8fd",
-    "image_name": "\uc804\ubcf5\uc8fd"
+    "image_name": "\uc804\ubcf5\uc8fd",
+    "similarity": [
+      "D040058",
+      "D040057",
+      "D012040",
+      "D013007",
+      "D015020"
+    ]
   },
   {
     "code": "D040014",
@@ -965,7 +1699,14 @@
     "kfood_code": "56830",
     "kfood_name": "\ud638\ubc15\uc8fd",
     "image_type": 0,
-    "image_name": "\ud638\ubc15\uc8fd"
+    "image_name": "\ud638\ubc15\uc8fd",
+    "similarity": [
+      "D040014",
+      "D132048",
+      "D132070",
+      "D132071",
+      "D040054"
+    ]
   },
   {
     "code": "D065003",
@@ -973,7 +1714,14 @@
     "kfood_code": "56870",
     "kfood_name": "\uae40\uce58\ucc0c\uac1c",
     "image_type": "\ucc0c\uac1c",
-    "image_name": "\uae40\uce58\ucc0c\uac1c"
+    "image_name": "\uae40\uce58\ucc0c\uac1c",
+    "similarity": [
+      "D065003",
+      "D065004",
+      "D064003",
+      "D064004",
+      "D065020"
+    ]
   },
   {
     "code": "D065024",
@@ -981,7 +1729,14 @@
     "kfood_code": "56874",
     "kfood_name": "\uc21c\ub450\ubd80\ucc0c\uac1c",
     "image_type": "\ucc0c\uac1c",
-    "image_name": "\uc21c\ub450\ubd80\ucc0c\uac1c"
+    "image_name": "\uc21c\ub450\ubd80\ucc0c\uac1c",
+    "similarity": [
+      "D065024",
+      "D065021",
+      "D065015",
+      "D065022",
+      "D103033"
+    ]
   },
   {
     "code": "D180086",
@@ -989,7 +1744,14 @@
     "kfood_code": "56871",
     "kfood_name": "\ub41c\uc7a5\ucc0c\uac1c",
     "image_type": "\ucc0c\uac1c",
-    "image_name": "\ub41c\uc7a5\ucc0c\uac1c"
+    "image_name": "\ub41c\uc7a5\ucc0c\uac1c",
+    "similarity": [
+      "D180086",
+      "D180195",
+      "D180162",
+      "D180087",
+      "D180088"
+    ]
   },
   {
     "code": "D053007",
@@ -997,7 +1759,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ucc0c\uac1c",
-    "image_name": "\ub2ed\uacc4\uc7a5"
+    "image_name": "\ub2ed\uacc4\uc7a5",
+    "similarity": [
+      "D053007",
+      "D053010",
+      "D053008",
+      "D051109",
+      "D053009"
+    ]
   },
   {
     "code": "D061016",
@@ -1005,7 +1774,14 @@
     "kfood_code": "56873",
     "kfood_name": "\ub3d9\ud0dc\ucc0c\uac1c",
     "image_type": "\ucc0c\uac1c",
-    "image_name": "\ub3d9\ud0dc\ucc0c\uac1c"
+    "image_name": "\ub3d9\ud0dc\ucc0c\uac1c",
+    "similarity": [
+      "D061016",
+      "D061018",
+      "D111013",
+      "D071011",
+      "D061015"
+    ]
   },
   {
     "code": "D112006",
@@ -1013,7 +1789,14 @@
     "kfood_code": "56887",
     "kfood_name": "\ub2ed\ubcf6\uc74c\ud0d5",
     "image_type": "\ucc1c",
-    "image_name": "\ub2ed\ubcf6\uc74c\ud0d5"
+    "image_name": "\ub2ed\ubcf6\uc74c\ud0d5",
+    "similarity": [
+      "D112006",
+      "D112004",
+      "D112003",
+      "D072001",
+      "D072018"
+    ]
   },
   {
     "code": "D072015",
@@ -1021,7 +1804,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ucc1c",
-    "image_name": "\uc218\uc721"
+    "image_name": "\uc218\uc721",
+    "similarity": [
+      "D072015",
+      "D140071",
+      "D140053",
+      "D140045",
+      "D140044"
+    ]
   },
   {
     "code": "D074001",
@@ -1029,7 +1819,14 @@
     "kfood_code": "56888",
     "kfood_name": "\uacc4\ub780\ucc1c",
     "image_type": "\ucc1c",
-    "image_name": "\uacc4\ub780\ucc1c"
+    "image_name": "\uacc4\ub780\ucc1c",
+    "similarity": [
+      "D074001",
+      "D074009",
+      "D284001",
+      "D095019",
+      "D021017"
+    ]
   },
   {
     "code": "D071042",
@@ -1037,7 +1834,14 @@
     "kfood_code": "56895",
     "kfood_name": "\ud574\ubb3c\ucc1c",
     "image_type": "\ucc1c",
-    "image_name": "\ud574\ubb3c\ucc1c"
+    "image_name": "\ud574\ubb3c\ucc1c",
+    "similarity": [
+      "D071042",
+      "D040016",
+      "D051104",
+      "D031046",
+      "D052061"
+    ]
   },
   {
     "code": "D074003",
@@ -1045,7 +1849,14 @@
     "kfood_code": "56893",
     "kfood_name": "\uc21c\ub300",
     "image_type": "\ucc1c",
-    "image_name": "\uc21c\ub300"
+    "image_name": "\uc21c\ub300",
+    "similarity": [
+      "D074003",
+      "D102002",
+      "D105006",
+      "D103046",
+      "D105008"
+    ]
   },
   {
     "code": "D072010",
@@ -1053,7 +1864,14 @@
     "kfood_code": "56885",
     "kfood_name": "\uac08\ube44\ucc1c",
     "image_type": "\ucc1c",
-    "image_name": "\uac08\ube44\ucc1c"
+    "image_name": "\uac08\ube44\ucc1c",
+    "similarity": [
+      "D072010",
+      "D072006",
+      "D072007",
+      "D082023",
+      "D082010"
+    ]
   },
   {
     "code": "D072016",
@@ -1061,15 +1879,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ucc1c",
-    "image_name": "\ucc1c\ub2ed"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ucc1c",
-    "image_name": "\uae40\uce58\ucc1c"
+    "image_name": "\ucc1c\ub2ed",
+    "similarity": [
+      "D072016",
+      "D053053",
+      "D040033",
+      "D051109",
+      "D054010"
+    ]
   },
   {
     "code": "D071006",
@@ -1077,7 +1894,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ucc1c",
-    "image_name": "\uaf2c\ub9c9\ucc1c"
+    "image_name": "\uaf2c\ub9c9\ucc1c",
+    "similarity": [
+      "D071006",
+      "D133005",
+      "D133029",
+      "D133028",
+      "D180122"
+    ]
   },
   {
     "code": "D072005",
@@ -1085,7 +1909,14 @@
     "kfood_code": "56892",
     "kfood_name": "\uc871\ubc1c",
     "image_type": "\ucc1c",
-    "image_name": "\uc871\ubc1c"
+    "image_name": "\uc871\ubc1c",
+    "similarity": [
+      "D072005",
+      "D180225",
+      "D180017",
+      "D180189",
+      "D180269"
+    ]
   },
   {
     "code": "D053002",
@@ -1093,7 +1924,14 @@
     "kfood_code": "56857",
     "kfood_name": "\uac10\uc790\ud0d5",
     "image_type": "\ud0d5",
-    "image_name": "\uac10\uc790\ud0d5"
+    "image_name": "\uac10\uc790\ud0d5",
+    "similarity": [
+      "D053002",
+      "D051043",
+      "D051002",
+      "D031009",
+      "D012028"
+    ]
   },
   {
     "code": "D053001",
@@ -1101,7 +1939,14 @@
     "kfood_code": "56852",
     "kfood_name": "\uac08\ube44\ud0d5",
     "image_type": "\ud0d5",
-    "image_name": "\uac08\ube44\ud0d5"
+    "image_name": "\uac08\ube44\ud0d5",
+    "similarity": [
+      "D053001",
+      "D053020",
+      "D053016",
+      "D051063",
+      "D051042"
+    ]
   },
   {
     "code": "D053058",
@@ -1109,7 +1954,14 @@
     "kfood_code": "56869",
     "kfood_name": "\ucd94\uc5b4\ud0d5",
     "image_type": "\ud0d5",
-    "image_name": "\ucd94\uc5b4\ud0d5"
+    "image_name": "\ucd94\uc5b4\ud0d5",
+    "similarity": [
+      "D053058",
+      "D051047",
+      "D012028",
+      "D051044",
+      "D053039"
+    ]
   },
   {
     "code": "D053018",
@@ -1117,7 +1969,14 @@
     "kfood_code": "56859",
     "kfood_name": "\uc0bc\uacc4\ud0d5",
     "image_type": "\ud0d5",
-    "image_name": "\uc0bc\uacc4\ud0d5"
+    "image_name": "\uc0bc\uacc4\ud0d5",
+    "similarity": [
+      "D053018",
+      "D053011",
+      "D053009",
+      "D012028",
+      "D053010"
+    ]
   },
   {
     "code": "D053020",
@@ -1125,7 +1984,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud0d5",
-    "image_name": "\uacf0\ud0d5 \uc124\ub801\ud0d5"
+    "image_name": "\uacf0\ud0d5 \uc124\ub801\ud0d5",
+    "similarity": [
+      "D053020",
+      "D053016",
+      "D053001",
+      "D053003",
+      "D012028"
+    ]
   },
   {
     "code": "D061044",
@@ -1133,7 +1999,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud0d5",
-    "image_name": "\ub9e4\uc6b4\ud0d5"
+    "image_name": "\ub9e4\uc6b4\ud0d5",
+    "similarity": [
+      "D061044",
+      "D071023",
+      "D121034",
+      "D065008",
+      "D065010"
+    ]
   },
   {
     "code": "D123002",
@@ -1141,7 +2014,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud280\uae40",
-    "image_name": "\uace0\ucd94\ud280\uae40"
+    "image_name": "\uace0\ucd94\ud280\uae40",
+    "similarity": [
+      "D123002",
+      "D123015",
+      "D073007",
+      "D103054",
+      "D292016"
+    ]
   },
   {
     "code": "D121026",
@@ -1149,7 +2029,12 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud280\uae40",
-    "image_name": "\uc0c8\uc6b0\ud280\uae40"
+    "image_name": "\uc0c8\uc6b0\ud280\uae40",
+    "similarity": [
+      "D121026",
+      "D081053",
+      "D081052"
+    ]
   },
   {
     "code": "D121033",
@@ -1157,7 +2042,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud280\uae40",
-    "image_name": "\uc624\uc9d5\uc5b4\ud280\uae40"
+    "image_name": "\uc624\uc9d5\uc5b4\ud280\uae40",
+    "similarity": [
+      "D121033",
+      "D101030",
+      "D151006",
+      "D133015",
+      "D133017"
+    ]
   },
   {
     "code": "D022034",
@@ -1165,7 +2057,12 @@
     "kfood_code": "56987",
     "kfood_name": "\uc57d\uacfc",
     "image_type": "\ud55c\uacfc",
-    "image_name": "\uc57d\uacfc"
+    "image_name": "\uc57d\uacfc",
+    "similarity": [
+      "D022034",
+      "D081054",
+      "D081053"
+    ]
   },
   {
     "code": "D012012",
@@ -1173,15 +2070,14 @@
     "kfood_code": "56984",
     "kfood_name": "\uc57d\uc2dd",
     "image_type": "\ud55c\uacfc",
-    "image_name": "\uc57d\uc2dd"
-  },
-  {
-    "code": NaN,
-    "name": NaN,
-    "kfood_code": "0",
-    "kfood_name": "",
-    "image_type": "\ud55c\uacfc",
-    "image_name": "\ud55c\uacfc"
+    "image_name": "\uc57d\uc2dd",
+    "similarity": [
+      "D012012",
+      "D011003",
+      "D012013",
+      "D012029",
+      "D114008"
+    ]
   },
   {
     "code": "D151002",
@@ -1189,7 +2085,14 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud574\ubb3c",
-    "image_name": "\uc0b0\ub099\uc9c0"
+    "image_name": "\uc0b0\ub099\uc9c0",
+    "similarity": [
+      "D151002",
+      "D081044",
+      "D081043",
+      "D101028",
+      "D081008"
+    ]
   },
   {
     "code": "D151003",
@@ -1197,6 +2100,11 @@
     "kfood_code": "0",
     "kfood_name": "",
     "image_type": "\ud574\ubb3c",
-    "image_name": "\uba4d\uac8c"
+    "image_name": "\uba4d\uac8c",
+    "similarity": [
+      "D151003",
+      "D081055",
+      "D081054"
+    ]
   }
 ]

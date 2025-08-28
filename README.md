@@ -2,7 +2,7 @@
 - 레시피의 재료 데이터를 형태소 분석하여 suprese를 이용하여 학습
 
 ## 이미지 분석 : pytorch CNN 계열 모델 적용
-- **torchvision models의 ResNet tkdyd**
+- **torchvision models의 Efficient 모델**
 - fc 레이어 3단으로 적용
 - 데이터 로드시 회전, 확대, 축소, 색깔 조정 처리
 
@@ -70,13 +70,13 @@ class SimilarityModel():
 ## 프로젝트 상세 설명
 
 - 기본
-    - 기간
-    - 인원
-    - 역할
+    - 기간 : 8월 11일 ~ 8월 29일
+    - 인원 : 3명
+    - 역할 : 추천 시스템, 프론트, 기술 가이드
 - 기술 
-    - 이미지 분류
-    - 추천 시스템
-    - 백앤드
-    - 프론트
-    - 기타 : 한식 진흥원 데이터 크롤
+    - 이미지 분류 : EfficientNet
+    - 추천 시스템 : 중량데이터 정규화(Z-score, Min_Max, L1, L2)통한 코사인 유사도
+    - 백앤드 : FastAPI
+    - 프론트 : React
+    - 기타 : 한식 진흥원 데이터 클롤링, 추천용 DB 구성
 

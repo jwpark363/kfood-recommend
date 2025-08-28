@@ -2,16 +2,16 @@
   {
     "code": "D082010",
     "name": "\uc18c\uac08\ube44\uad6c\uc774",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56920",
+    "kfood_name": "\uc18c\uac08\ube44\uad6c\uc774",
     "image_type": "\uad6c\uc774",
     "image_name": "\uac08\ube44\uad6c\uc774",
     "similarity": [
-      "D082010",
       "D072007",
       "D072006",
       "D072010",
-      "D082023"
+      "D082023",
+      "D072011"
     ]
   },
   {
@@ -22,11 +22,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\uac08\uce58\uad6c\uc774",
     "similarity": [
-      "D081003",
       "D121002",
       "D071003",
       "D061002",
-      "D111002"
+      "D111002",
+      "D061062"
     ]
   },
   {
@@ -37,11 +37,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\uace0\ub4f1\uc5b4\uad6c\uc774",
     "similarity": [
-      "D081004",
       "D081042",
       "D121004",
       "D081041",
-      "D081051"
+      "D081051",
+      "D091003"
     ]
   },
   {
@@ -52,11 +52,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\uacf1\ucc3d\uad6c\uc774",
     "similarity": [
-      "D082001",
       "D064001",
       "D015019",
       "D103046",
-      "D103040"
+      "D103040",
+      "D103042"
     ]
   },
   {
@@ -67,11 +67,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\ub2ed\uac08\ube44",
     "similarity": [
-      "D102003",
       "D102011",
       "D102043",
       "D102042",
-      "D082018"
+      "D082018",
+      "D102031"
     ]
   },
   {
@@ -82,11 +82,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\ub354\ub355\uad6c\uc774",
     "similarity": [
-      "D083003",
       "D132094",
       "D170014",
       "D083010",
-      "D135011"
+      "D135011",
+      "D170015"
     ]
   },
   {
@@ -97,11 +97,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\ub5a1\uac08\ube44",
     "similarity": [
-      "D082023",
       "D072006",
       "D072007",
       "D072011",
-      "D072010"
+      "D072010",
+      "D082010"
     ]
   },
   {
@@ -112,26 +112,26 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\ubd88\uace0\uae30",
     "similarity": [
-      "D102033",
       "D102034",
       "D102037",
       "D082007",
-      "D102015"
+      "D102015",
+      "D102018"
     ]
   },
   {
     "code": "D082009",
     "name": "\uc0bc\uacb9\uc0b4\uad6c\uc774",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56917",
+    "kfood_name": "\uc0bc\uacb9\uc0b4\uad6c\uc774",
     "image_type": "\uad6c\uc774",
     "image_name": "\uc0bc\uacb9\uc0b4",
     "similarity": [
-      "D082009",
       "D291001",
       "D180009",
       "D083002",
-      "D125006"
+      "D125006",
+      "D125007"
     ]
   },
   {
@@ -142,11 +142,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\uc7a5\uc5b4\uad6c\uc774",
     "similarity": [
-      "D081032",
       "D081047",
       "D081053",
       "D081054",
-      "D081018"
+      "D081018",
+      "D123014"
     ]
   },
   {
@@ -157,11 +157,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\uc870\uae30\uad6c\uc774",
     "similarity": [
-      "D081058",
       "D081035",
       "D071036",
       "D071024",
-      "D121037"
+      "D121037",
+      "D121042"
     ]
   },
   {
@@ -172,11 +172,11 @@
     "image_type": "\uad6c\uc774",
     "image_name": "\ud669\ud0dc\uad6c\uc774",
     "similarity": [
-      "D081023",
       "D081048",
       "D133040",
       "D081049",
-      "D111020"
+      "D111020",
+      "D071015"
     ]
   },
   {
@@ -187,11 +187,11 @@
     "image_type": "\uad6d",
     "image_name": "\uc2dc\ub798\uae30\uad6d",
     "similarity": [
-      "D052035",
       "D052036",
       "D053021",
       "D053004",
-      "D052056"
+      "D052056",
+      "D012028"
     ]
   },
   {
@@ -202,11 +202,11 @@
     "image_type": "\uad6d",
     "image_name": "\ucf69\ub098\ubb3c\uad6d",
     "similarity": [
-      "D051072",
       "D051073",
       "D051078",
       "D051074",
-      "D051079"
+      "D051079",
+      "D052049"
     ]
   },
   {
@@ -217,11 +217,11 @@
     "image_type": "\uad6d",
     "image_name": "\uc721\uac1c\uc7a5",
     "similarity": [
-      "D053027",
       "D053028",
       "D051108",
       "D051048",
-      "D053035"
+      "D053035",
+      "D053003"
     ]
   },
   {
@@ -232,26 +232,26 @@
     "image_type": "\uad6d",
     "image_name": "\ubd81\uc5c7\uad6d",
     "similarity": [
-      "D051102",
       "D051054",
       "D051055",
       "D051111",
-      "D051037"
+      "D051037",
+      "D051040"
     ]
   },
   {
     "code": "D032006",
     "name": "\ub5a1\ub9cc\ub463\uad6d(\ub3fc\uc9c0\uace0\uae30\ub9cc\ub450",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56851",
+    "kfood_name": "\ub5a1\ub9cc\ub463\uad6d",
     "image_type": "\uad6d",
     "image_name": "\ub5a1\uad6d_\ub9cc\ub450\uad6d",
     "similarity": [
-      "D032006",
       "D032005",
       "D051035",
       "D012028",
-      "D051047"
+      "D051047",
+      "D053024"
     ]
   },
   {
@@ -262,11 +262,11 @@
     "image_type": "\uad6d",
     "image_name": "\uacc4\ub780\uad6d",
     "similarity": [
-      "D051007",
       "D051081",
       "D051008",
       "D051126",
-      "D012028"
+      "D012028",
+      "D051047"
     ]
   },
   {
@@ -277,11 +277,11 @@
     "image_type": "\uad6d",
     "image_name": "\ubbf8\uc5ed\uad6d",
     "similarity": [
-      "D051127",
       "D053027",
       "D053028",
       "D051129",
-      "D051108"
+      "D051108",
+      "D053035"
     ]
   },
   {
@@ -292,26 +292,26 @@
     "image_type": "\uad6d",
     "image_name": "\ubb34\uad6d",
     "similarity": [
-      "D051037",
       "D051111",
       "D051040",
       "D051054",
-      "D051055"
+      "D051055",
+      "D051042"
     ]
   },
   {
     "code": "D072009",
     "name": "\ud3b8\uc721(\ub3fc\uc9c0\uace0\uae30)",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56891",
+    "kfood_name": "\uc591\uc9c0\uba38\ub9ac \ud3b8\uc721",
     "image_type": "\uae30\ud0c0",
     "image_name": "\ud3b8\uc721",
     "similarity": [
-      "D072009",
       "D180288",
       "D180289",
       "D180109",
-      "D180110"
+      "D180110",
+      "D180117"
     ]
   },
   {
@@ -322,11 +322,11 @@
     "image_type": "\uae30\ud0c0",
     "image_name": "\ucf69\uc790\ubc18",
     "similarity": [
-      "D114021",
       "D114020",
       "D012028",
       "D051047",
-      "D203018"
+      "D203018",
+      "D051046"
     ]
   },
   {
@@ -337,22 +337,21 @@
     "image_type": "\uae30\ud0c0",
     "image_name": "\uc591\ub150\uce58\ud0a8",
     "similarity": [
-      "D122013",
       "D287024",
       "D102001",
       "D287009",
-      "D101013"
+      "D101013",
+      "D095005"
     ]
   },
   {
     "code": "D160007",
     "name": "\uc0c8\uc6b0\uc813",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56959",
+    "kfood_name": "\uc5b4\ub9ac\uad74\uc813",
     "image_type": "\uae30\ud0c0",
     "image_name": "\uc813\uac08",
     "similarity": [
-      "D160007",
       "D140076",
       "D081053"
     ]
@@ -365,11 +364,11 @@
     "image_type": "\uae30\ud0c0",
     "image_name": "\ud6c4\ub77c\uc774\ub4dc\uce58\ud0a8",
     "similarity": [
-      "D122003",
       "D122002",
       "D122001",
       "D122008",
-      "D124012"
+      "D124012",
+      "D095024"
     ]
   },
   {
@@ -380,11 +379,11 @@
     "image_type": "\uae30\ud0c0",
     "image_name": "\uacfc\uba54\uae30",
     "similarity": [
-      "D288005",
       "D180003",
       "D180148",
       "D180322",
-      "D180218"
+      "D180218",
+      "D180326"
     ]
   },
   {
@@ -395,7 +394,6 @@
     "image_type": "\uae30\ud0c0",
     "image_name": "\ud53c\uc790",
     "similarity": [
-      "D311052",
       "D081053",
       "D081052"
     ]
@@ -408,11 +406,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\ubb34\uc0dd\ucc44",
     "similarity": [
-      "D140076",
       "D132101",
       "D132011",
       "D132081",
-      "D132077"
+      "D132077",
+      "D292004"
     ]
   },
   {
@@ -424,7 +422,6 @@
     "image_name": "\ud30c\uae40\uce58",
     "similarity": [
       "D140015",
-      "D140058",
       "D140055"
     ]
   },
@@ -436,11 +433,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\ubc31\uae40\uce58",
     "similarity": [
-      "D140062",
       "D140059",
       "D140060",
       "D140008",
-      "D140043"
+      "D140043",
+      "D292006"
     ]
   },
   {
@@ -452,10 +449,10 @@
     "image_name": "\uc5f4\ubb34\uae40\uce58",
     "similarity": [
       "D140012",
-      "D140057",
       "D140054",
       "D014025",
-      "D014008"
+      "D014008",
+      "D031011"
     ]
   },
   {
@@ -466,11 +463,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\uae4d\ub450\uae30",
     "similarity": [
-      "D140027",
       "D292004",
       "D132101",
       "D132011",
-      "D132081"
+      "D132081",
+      "D132077"
     ]
   },
   {
@@ -481,11 +478,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\uac13\uae40\uce58",
     "similarity": [
-      "D140029",
       "D054002",
       "D053039",
       "D051044",
-      "D051047"
+      "D051047",
+      "D012028"
     ]
   },
   {
@@ -496,11 +493,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\ubd80\ucd94\uae40\uce58",
     "similarity": [
-      "D140069",
       "D140010",
       "D292055",
       "D132102",
-      "D140042"
+      "D140042",
+      "D132079"
     ]
   },
   {
@@ -511,7 +508,6 @@
     "image_type": "\uae40\uce58",
     "image_name": "\ub098\ubc15\uae40\uce58",
     "similarity": [
-      "D140061",
       "D140068",
       "D140005"
     ]
@@ -524,11 +520,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\ubc30\ucd94\uae40\uce58",
     "similarity": [
-      "D140030",
       "D052028",
       "D052020",
       "D052024",
-      "D052022"
+      "D052022",
+      "D052021"
     ]
   },
   {
@@ -539,11 +535,11 @@
     "image_type": "\uae40\uce58",
     "image_name": "\uc624\uc774\uc18c\ubc15\uc774",
     "similarity": [
-      "D140064",
       "D292012",
       "D135022",
       "D103047",
-      "D103063"
+      "D103063",
+      "D140037"
     ]
   },
   {
@@ -569,26 +565,26 @@
     "image_type": "\ub098\ubb3c",
     "image_name": "\uac00\uc9c0\ubcf6\uc74c",
     "similarity": [
-      "D103001",
       "D132001",
       "D132044",
       "D132045",
-      "D093001"
+      "D093001",
+      "D083009"
     ]
   },
   {
     "code": "D103012",
     "name": "\uace0\uc0ac\ub9ac\ub098\ubb3c",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56969",
+    "kfood_name": "\uace0\uc0ac\ub9ac\ub098\ubb3c\u00b7\ub3c4\ub77c\uc9c0\ub098\ubb3c",
     "image_type": "\ub098\ubb3c",
     "image_name": "\uace0\uc0ac\ub9ac\ub098\ubb3c",
     "similarity": [
-      "D103012",
       "D103013",
       "D093022",
       "D132053",
-      "D014024"
+      "D014024",
+      "D061070"
     ]
   },
   {
@@ -599,11 +595,11 @@
     "image_type": "\ub098\ubb3c",
     "image_name": "\uc560\ud638\ubc15\ubcf6\uc74c",
     "similarity": [
-      "D103061",
       "D132086",
       "D132089",
       "D132042",
-      "D132069"
+      "D132069",
+      "D113017"
     ]
   },
   {
@@ -614,11 +610,11 @@
     "image_type": "\ub098\ubb3c",
     "image_name": "\ubbf8\uc5ed\uc904\uae30\ubcf6\uc74c",
     "similarity": [
-      "D103030",
       "D123015",
       "D123002",
       "D103054",
-      "D103046"
+      "D103046",
+      "D292016"
     ]
   },
   {
@@ -629,26 +625,26 @@
     "image_type": "\ub098\ubb3c",
     "image_name": "\uc219\uc8fc\ub098\ubb3c",
     "similarity": [
-      "D132083",
       "D132020",
       "D132022",
       "D132021",
-      "D095010"
+      "D095010",
+      "D095028"
     ]
   },
   {
     "code": "D132023",
     "name": "\uc2dc\uae08\uce58\ub098\ubb3c",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56968",
+    "kfood_name": "\ub098\ubb3c_\ubc84\uc12f\ub098\ubb3c\u00b7\ucf69\ub098\ubb3c\ubb34\uce68\u00b7\uc2dc\uae08\uce58\ub098\ubb3c",
     "image_type": "\ub098\ubb3c",
     "image_name": "\uc2dc\uae08\uce58\ub098\ubb3c",
     "similarity": [
-      "D132023",
       "D132025",
       "D292070",
       "D132024",
-      "D064011"
+      "D064011",
+      "D014024"
     ]
   },
   {
@@ -659,11 +655,11 @@
     "image_type": "\ub5a1",
     "image_name": "\uacbd\ub2e8",
     "similarity": [
-      "D230049",
       "D230059",
       "D201017",
       "D022008",
-      "D230039"
+      "D230039",
+      "D230023"
     ]
   },
   {
@@ -674,7 +670,6 @@
     "image_type": "\ub5a1",
     "image_name": "\uafc0\ub5a1",
     "similarity": [
-      "D230005",
       "D081054",
       "D081053"
     ]
@@ -687,7 +682,6 @@
     "image_type": "\ub5a1",
     "image_name": "\uc1a1\ud3b8",
     "similarity": [
-      "D230064",
       "D081054",
       "D081053"
     ]
@@ -700,11 +694,11 @@
     "image_type": "\ub9cc\ub450",
     "image_name": "\ub9cc\ub450",
     "similarity": [
-      "D032017",
       "D032002",
       "D065003",
       "D063012",
-      "D065006"
+      "D065006",
+      "D065004"
     ]
   },
   {
@@ -715,11 +709,11 @@
     "image_type": "\uba74",
     "image_name": "\ucf69\uad6d\uc218",
     "similarity": [
-      "D031055",
       "D031008",
       "D031013",
       "D031011",
-      "D031050"
+      "D031050",
+      "D031033"
     ]
   },
   {
@@ -730,11 +724,11 @@
     "image_type": "\uba74",
     "image_name": "\ube44\ube54\ub0c9\uba74",
     "similarity": [
-      "D031007",
       "D031005",
       "D051007",
       "D053024",
-      "D051081"
+      "D051081",
+      "D051008"
     ]
   },
   {
@@ -745,11 +739,11 @@
     "image_type": "\uba74",
     "image_name": "\uc218\uc81c\ube44",
     "similarity": [
-      "D031009",
       "D051043",
       "D051002",
       "D051005",
-      "D051017"
+      "D051017",
+      "D012028"
     ]
   },
   {
@@ -760,11 +754,11 @@
     "image_type": "\uba74",
     "image_name": "\uc794\uce58\uad6d\uc218",
     "similarity": [
-      "D031050",
       "D031033",
       "D031053",
       "D031008",
-      "D031014"
+      "D031014",
+      "D031013"
     ]
   },
   {
@@ -775,11 +769,11 @@
     "image_type": "\uba74",
     "image_name": "\ucac4\uba74",
     "similarity": [
-      "D031017",
       "D132104",
       "D292012",
       "D135022",
-      "D103047"
+      "D103047",
+      "D140070"
     ]
   },
   {
@@ -790,11 +784,11 @@
     "image_type": "\uba74",
     "image_name": "\uc9ec\ubf55",
     "similarity": [
-      "D031016",
       "D031012",
       "D053029",
       "D012028",
-      "D052052"
+      "D052052",
+      "D031009"
     ]
   },
   {
@@ -805,11 +799,11 @@
     "image_type": "\uba74",
     "image_name": "\uce7c\uad6d\uc218",
     "similarity": [
-      "D031058",
       "D040036",
       "D031046",
       "D051104",
-      "D052061"
+      "D052061",
+      "D287027"
     ]
   },
   {
@@ -820,11 +814,11 @@
     "image_type": "\uba74",
     "image_name": "\ub77c\uba74",
     "similarity": [
-      "D031003",
       "D051081",
       "D051007",
       "D051126",
-      "D051008"
+      "D051008",
+      "D053024"
     ]
   },
   {
@@ -835,11 +829,11 @@
     "image_type": "\uba74",
     "image_name": "\ub9c9\uad6d\uc218",
     "similarity": [
-      "D031004",
       "D051063",
       "D051070",
       "D051042",
-      "D051040"
+      "D051040",
+      "D051061"
     ]
   },
   {
@@ -850,11 +844,11 @@
     "image_type": "\uba74",
     "image_name": "\uc5f4\ubb34\uad6d\uc218",
     "similarity": [
-      "D031011",
       "D031013",
       "D031008",
       "D031014",
-      "D031050"
+      "D031050",
+      "D031033"
     ]
   },
   {
@@ -865,11 +859,11 @@
     "image_type": "\uba74",
     "image_name": "\uc9dc\uc7a5\uba74",
     "similarity": [
-      "D031015",
       "D031016",
       "D031012",
       "D052037",
-      "D053029"
+      "D053029",
+      "D051083"
     ]
   },
   {
@@ -880,11 +874,11 @@
     "image_type": "\uba74",
     "image_name": "\ubb3c\ub0c9\uba74",
     "similarity": [
-      "D031005",
       "D031007",
       "D053016",
       "D051063",
-      "D053020"
+      "D053020",
+      "D053024"
     ]
   },
   {
@@ -895,11 +889,11 @@
     "image_type": "\ubb34\uce68",
     "image_name": "\ub3c4\ud1a0\ub9ac\ubb35",
     "similarity": [
-      "D132097",
       "D135012",
       "D114012",
       "D281034",
-      "D105015"
+      "D105015",
+      "D103047"
     ]
   },
   {
@@ -910,26 +904,26 @@
     "image_type": "\ubb34\uce68",
     "image_name": "\uaf48\ub9ac\uace0\ucd94\ubb34\uce68",
     "similarity": [
-      "D101010",
       "D292020",
       "D101009",
       "D101007",
-      "D180224"
+      "D180224",
+      "D287024"
     ]
   },
   {
     "code": "D135002",
     "name": "\ub3c4\ub77c\uc9c0\ubb34\uce68(\uace0\ucd94\uc7a5)",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56969",
+    "kfood_name": "\uace0\uc0ac\ub9ac\ub098\ubb3c\u00b7\ub3c4\ub77c\uc9c0\ub098\ubb3c",
     "image_type": "\ubb34\uce68",
     "image_name": "\ub3c4\ub77c\uc9c0\ubb34\uce68",
     "similarity": [
-      "D135002",
       "D132095",
       "D170004",
       "D132096",
-      "D180003"
+      "D180003",
+      "D180148"
     ]
   },
   {
@@ -940,26 +934,26 @@
     "image_type": "\ubb34\uce68",
     "image_name": "\uc7a1\ucc44",
     "similarity": [
-      "D105017",
       "D105008",
       "D105007",
       "D105005",
-      "D105004"
+      "D105004",
+      "D105006"
     ]
   },
   {
     "code": "D133039",
     "name": "\ud64d\uc5b4\ud68c\ubb34\uce68",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56976",
+    "kfood_name": "\ud64d\uc5b4\ud68c\ubb34\uce68",
     "image_type": "\ubb34\uce68",
     "image_name": "\ud64d\uc5b4\ubb34\uce68",
     "similarity": [
-      "D133039",
       "D071026",
       "D061060",
       "D053067",
-      "D133025"
+      "D133025",
+      "D151009"
     ]
   },
   {
@@ -970,26 +964,26 @@
     "image_type": "\ubb34\uce68",
     "image_name": "\ud68c\ubb34\uce68",
     "similarity": [
-      "D133039",
       "D071026",
       "D061060",
       "D053067",
-      "D133025"
+      "D133025",
+      "D151009"
     ]
   },
   {
     "code": "D132063",
     "name": "\ucf69\ub098\ubb3c\ubb34\uce68",
-    "kfood_code": "56977",
-    "kfood_name": "\ud68c\ubb34\uce68",
+    "kfood_code": "56968",
+    "kfood_name": "\ub098\ubb3c_\ubc84\uc12f\ub098\ubb3c\u00b7\ucf69\ub098\ubb3c\ubb34\uce68\u00b7\uc2dc\uae08\uce58\ub098\ubb3c",
     "image_type": "\ubb34\uce68",
     "image_name": "\ucf69\ub098\ubb3c\ubb34\uce68",
     "similarity": [
-      "D132063",
       "D113019",
       "D132036",
       "D132038",
-      "D132061"
+      "D132061",
+      "D132040"
     ]
   },
   {
@@ -1000,11 +994,11 @@
     "image_type": "\ubc25",
     "image_name": "\ub204\ub8fd\uc9c0",
     "similarity": [
-      "D011007",
       "D281009",
       "D132100",
       "D281004",
-      "D015025"
+      "D015025",
+      "D031037"
     ]
   },
   {
@@ -1015,11 +1009,11 @@
     "image_type": "\ubc25",
     "image_name": "\uae40\ubc25",
     "similarity": [
-      "D016004",
       "D016003",
       "D016001",
       "D011002",
-      "D012002"
+      "D012002",
+      "D012006"
     ]
   },
   {
@@ -1030,11 +1024,11 @@
     "image_type": "\ubc25",
     "image_name": "\uae40\uce58\ubcf6\uc74c\ubc25",
     "similarity": [
-      "D014001",
       "D014006",
       "D014003",
       "D014002",
-      "D016002"
+      "D016002",
+      "D016004"
     ]
   },
   {
@@ -1045,11 +1039,11 @@
     "image_type": "\ubc25",
     "image_name": "\ube44\ube54\ubc25",
     "similarity": [
-      "D014019",
       "D014010",
       "D015001",
       "D015005",
-      "D014007"
+      "D014007",
+      "D015006"
     ]
   },
   {
@@ -1060,11 +1054,11 @@
     "image_type": "\ubc25",
     "image_name": "\uc8fc\uba39\ubc25",
     "similarity": [
-      "D016006",
       "D011002",
       "D012002",
       "D012006",
-      "D012023"
+      "D012023",
+      "D012004"
     ]
   },
   {
@@ -1075,7 +1069,6 @@
     "image_type": "\ubc25",
     "image_name": "\uc54c\ubc25",
     "similarity": [
-      "D311040",
       "D081054",
       "D081053"
     ]
@@ -1088,11 +1081,11 @@
     "image_type": "\ubc25",
     "image_name": "\uc7a1\uace1\ubc25",
     "similarity": [
-      "D012050",
       "D012049",
       "D013017",
       "D012055",
-      "D012051"
+      "D012051",
+      "D012044"
     ]
   },
   {
@@ -1103,11 +1096,11 @@
     "image_type": "\ubc25",
     "image_name": "\uc720\ubd80\ucd08\ubc25",
     "similarity": [
-      "D016010",
       "D016009",
       "D011002",
       "D012002",
-      "D012023"
+      "D012023",
+      "D012004"
     ]
   },
   {
@@ -1118,11 +1111,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uc5b4\ubb35\ubcf6\uc74c",
     "similarity": [
-      "D101016",
       "D101018",
       "D101021",
       "D101020",
-      "D101017"
+      "D101017",
+      "D121030"
     ]
   },
   {
@@ -1133,11 +1126,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uac10\uc790\ucc44\ubcf6\uc74c",
     "similarity": [
-      "D103007",
       "D103060",
       "D103006",
       "D095016",
-      "D083001"
+      "D083001",
+      "D103003"
     ]
   },
   {
@@ -1148,11 +1141,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uac74\uc0c8\uc6b0\ubcf6\uc74c",
     "similarity": [
-      "D101002",
       "D287009",
       "D180045",
       "D287024",
-      "D285004"
+      "D285004",
+      "D101013"
     ]
   },
   {
@@ -1163,11 +1156,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uc624\uc9d5\uc5b4\ucc44\ubcf6\uc74c",
     "similarity": [
-      "D101023",
       "D288004",
       "D180045",
       "D180017",
-      "D180269"
+      "D180269",
+      "D180225"
     ]
   },
   {
@@ -1178,11 +1171,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\ub5a1\ubcf6\uc774",
     "similarity": [
-      "D104016",
       "D104005",
       "D051090",
       "D104012",
-      "D104003"
+      "D104003",
+      "D104004"
     ]
   },
   {
@@ -1193,11 +1186,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uc18c\uc138\uc9c0\ubcf6\uc74c",
     "similarity": [
-      "D102023",
       "D102024",
       "D112014",
       "D122012",
-      "D104025"
+      "D104025",
+      "D124018"
     ]
   },
   {
@@ -1208,11 +1201,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uc81c\uc721\ubcf6\uc74c",
     "similarity": [
-      "D102038",
       "D103046",
       "D292010",
       "D140011",
-      "D140070"
+      "D140070",
+      "D103040"
     ]
   },
   {
@@ -1223,11 +1216,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\ub450\ubd80\uae40\uce58",
     "similarity": [
-      "D103058",
       "D104002",
       "D104001",
       "D286001",
-      "D095007"
+      "D095007",
+      "D095022"
     ]
   },
   {
@@ -1238,11 +1231,11 @@
     "image_type": "\ubcf6\uc74c",
     "image_name": "\uba78\uce58\ubcf6\uc74c",
     "similarity": [
-      "D101007",
       "D288003",
       "D101009",
       "D133010",
-      "D111014"
+      "D111014",
+      "D111015"
     ]
   },
   {
@@ -1253,11 +1246,11 @@
     "image_type": "\uc308",
     "image_name": "\ubcf4\uc308",
     "similarity": [
-      "D140033",
       "D140021",
       "D140034",
       "D133007",
-      "D061008"
+      "D061008",
+      "D140025"
     ]
   },
   {
@@ -1268,26 +1261,26 @@
     "image_type": "\uc74c\uccad\ub958",
     "image_name": "\uc2dd\ud61c",
     "similarity": [
-      "D203006",
       "D201004",
       "D022086",
       "D230020",
-      "D022085"
+      "D022085",
+      "D160022"
     ]
   },
   {
     "code": "D203005",
     "name": "\uc218\uc815\uacfc",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56992",
+    "kfood_name": "\uc218\uc815\uacfc",
     "image_type": "\uc74c\uccad\ub958",
     "image_name": "\uc218\uc815\uac00",
     "similarity": [
-      "D203005",
       "D212040",
       "D180152",
       "D180213",
-      "D180169"
+      "D180169",
+      "D180127"
     ]
   },
   {
@@ -1298,11 +1291,11 @@
     "image_type": "\uc7a5",
     "image_name": "\uac04\uc7a5\uac8c\uc7a5",
     "similarity": [
-      "D160002",
       "D160018",
       "D160019",
       "D180176",
-      "D180132"
+      "D180132",
+      "D180251"
     ]
   },
   {
@@ -1313,11 +1306,11 @@
     "image_type": "\uc7a5",
     "image_name": "\uc591\ub150\uac8c\uc7a5",
     "similarity": [
-      "D160002",
       "D160018",
       "D160019",
       "D180176",
-      "D180132"
+      "D180132",
+      "D180251"
     ]
   },
   {
@@ -1328,7 +1321,6 @@
     "image_type": "\uc7a5\uc544\ucc0c",
     "image_name": "\uae7b\uc78e\uc7a5\uc544\ucc0c",
     "similarity": [
-      "D170003",
       "D081054",
       "D081053"
     ]
@@ -1341,11 +1333,11 @@
     "image_type": "\uc801",
     "image_name": "\ub5a1\uaf2c\uce58",
     "similarity": [
-      "D083006",
       "D230001",
       "D287007",
       "D051118",
-      "D114006"
+      "D114006",
+      "D104010"
     ]
   },
   {
@@ -1356,11 +1348,11 @@
     "image_type": "\uc804",
     "image_name": "\uac10\uc790\uc804",
     "similarity": [
-      "D093002",
       "D124001",
       "D093014",
       "D124016",
-      "D095024"
+      "D095024",
+      "D095025"
     ]
   },
   {
@@ -1372,10 +1364,10 @@
     "image_name": "\uacc4\ub780\ub9d0\uc774",
     "similarity": [
       "D095004",
-      "D095001",
       "D095003",
       "D095005",
-      "D095002"
+      "D095002",
+      "D102001"
     ]
   },
   {
@@ -1386,11 +1378,11 @@
     "image_type": "\uc804",
     "image_name": "\ud30c\uc804",
     "similarity": [
-      "D093036",
       "D093035",
       "D281005",
       "D093027",
-      "D230018"
+      "D230018",
+      "D095020"
     ]
   },
   {
@@ -1401,11 +1393,11 @@
     "image_type": "\uc804",
     "image_name": "\ub3d9\uadf8\ub791\ub561",
     "similarity": [
-      "D092010",
       "D092001",
       "D122007",
       "D122006",
-      "D102012"
+      "D102012",
+      "D082004"
     ]
   },
   {
@@ -1416,11 +1408,11 @@
     "image_type": "\uc804",
     "image_name": "\uae40\uce58\uc804",
     "similarity": [
-      "D093005",
       "D065020",
       "D065019",
       "D103016",
-      "D103017"
+      "D103017",
+      "D140071"
     ]
   },
   {
@@ -1431,11 +1423,11 @@
     "image_type": "\uc804",
     "image_name": "\uacc4\ub780\ud6c4\ub77c\uc774",
     "similarity": [
-      "D095005",
       "D095002",
       "D102001",
       "D095004",
-      "D095001"
+      "D095001",
+      "D095012"
     ]
   },
   {
@@ -1446,11 +1438,11 @@
     "image_type": "\uc804",
     "image_name": "\uc0dd\uc120\uc804",
     "similarity": [
-      "D091005",
       "D133009",
       "D111012",
       "D095024",
-      "D102001"
+      "D102001",
+      "D095025"
     ]
   },
   {
@@ -1461,11 +1453,11 @@
     "image_type": "\uc804",
     "image_name": "\ud638\ubc15\uc804",
     "similarity": [
-      "D093039",
       "D093020",
       "D093037",
       "D093038",
-      "D103061"
+      "D103061",
+      "D132086"
     ]
   },
   {
@@ -1476,11 +1468,11 @@
     "image_type": "\uc804\uace8",
     "image_name": "\uacf1\ucc3d\uc804\uace8",
     "similarity": [
-      "D064001",
       "D082001",
       "D064002",
       "D112024",
-      "D102036"
+      "D102036",
+      "D112010"
     ]
   },
   {
@@ -1491,11 +1483,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uc6b0\uc5c9\uc870\ub9bc",
     "similarity": [
-      "D113012",
       "D103049",
       "D113013",
       "D113014",
-      "D112021"
+      "D112021",
+      "D132057"
     ]
   },
   {
@@ -1506,11 +1498,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uc5f0\uadfc\uc870\ub9bc",
     "similarity": [
-      "D113011",
       "D093015",
       "D123005",
       "D287024",
-      "D285004"
+      "D285004",
+      "D287009"
     ]
   },
   {
@@ -1521,26 +1513,26 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uace0\ub4f1\uc5b4\uc870\ub9bc",
     "similarity": [
-      "D111040",
       "D081041",
       "D081042",
       "D081051",
-      "D121004"
+      "D121004",
+      "D081004"
     ]
   },
   {
     "code": "D112029",
     "name": "\uba54\ucd94\ub9ac\uc54c\uc7a5\uc870\ub9bc",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56899",
+    "kfood_name": "\uc7a5\uc870\ub9bc",
     "image_type": "\uc870\ub9bc",
     "image_name": "\uba54\ucd94\ub9ac\uc54c\uc7a5\uc870\ub9bc",
     "similarity": [
-      "D112029",
       "D112009",
       "D284003",
       "D124009",
-      "D112008"
+      "D112008",
+      "D112026"
     ]
   },
   {
@@ -1551,11 +1543,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uac08\uce58\uc870\ub9bc",
     "similarity": [
-      "D111002",
       "D071003",
       "D061002",
       "D121002",
-      "D081003"
+      "D081003",
+      "D113009"
     ]
   },
   {
@@ -1566,11 +1558,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uaf41\uce58\uc870\ub9bc",
     "similarity": [
-      "D111008",
       "D111009",
       "D081007",
       "D121007",
-      "D101004"
+      "D101004",
+      "D061006"
     ]
   },
   {
@@ -1581,11 +1573,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uc7a5\uc870\ub9bc",
     "similarity": [
-      "D112023",
       "D063021",
       "D064015",
       "D053040",
-      "D051127"
+      "D051127",
+      "D053027"
     ]
   },
   {
@@ -1596,11 +1588,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\ub545\ucf69\uc870\ub9bc",
     "similarity": [
-      "D114015",
       "D012028",
       "D051047",
       "D051044",
-      "D203018"
+      "D203018",
+      "D051046"
     ]
   },
   {
@@ -1611,11 +1603,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\ub450\ubd80\uc870\ub9bc",
     "similarity": [
-      "D114014",
       "D114013",
       "D104001",
       "D286001",
-      "D104002"
+      "D104002",
+      "D095007"
     ]
   },
   {
@@ -1626,11 +1618,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\ucf54\ub2e4\ub9ac\uc870\ub9bc",
     "similarity": [
-      "D111038",
       "D071025",
       "D061057",
       "D071032",
-      "D081046"
+      "D081046",
+      "D113009"
     ]
   },
   {
@@ -1641,11 +1633,11 @@
     "image_type": "\uc870\ub9bc",
     "image_name": "\uac10\uc790\uc870\ub9bc",
     "similarity": [
-      "D113002",
       "D281001",
       "D012043",
       "D230014",
-      "D113003"
+      "D113003",
+      "D114019"
     ]
   },
   {
@@ -1656,11 +1648,11 @@
     "image_type": "\ud68c",
     "image_name": "\uc721\ud68c",
     "similarity": [
-      "D152002",
       "D311007",
       "D135023",
       "D095034",
-      "D095021"
+      "D095021",
+      "D105013"
     ]
   },
   {
@@ -1671,11 +1663,11 @@
     "image_type": "\ud68c",
     "image_name": "\ubb3c\ud68c",
     "similarity": [
-      "D151012",
       "D051105",
       "D051069",
       "D052050",
-      "D053031"
+      "D053031",
+      "D053029"
     ]
   },
   {
@@ -1686,11 +1678,11 @@
     "image_type": "\uc8fd",
     "image_name": "\uc804\ubcf5\uc8fd",
     "similarity": [
-      "D040058",
       "D040057",
       "D012040",
       "D013007",
-      "D015020"
+      "D015020",
+      "D014031"
     ]
   },
   {
@@ -1698,14 +1690,14 @@
     "name": "\ud638\ubc15\uc8fd",
     "kfood_code": "56830",
     "kfood_name": "\ud638\ubc15\uc8fd",
-    "image_type": 0,
+    "image_type": "\uc8fd",
     "image_name": "\ud638\ubc15\uc8fd",
     "similarity": [
-      "D040014",
       "D132048",
       "D132070",
       "D132071",
-      "D040054"
+      "D040054",
+      "D125002"
     ]
   },
   {
@@ -1716,11 +1708,11 @@
     "image_type": "\ucc0c\uac1c",
     "image_name": "\uae40\uce58\ucc0c\uac1c",
     "similarity": [
-      "D065003",
       "D065004",
       "D064003",
       "D064004",
-      "D065020"
+      "D065020",
+      "D065019"
     ]
   },
   {
@@ -1731,11 +1723,11 @@
     "image_type": "\ucc0c\uac1c",
     "image_name": "\uc21c\ub450\ubd80\ucc0c\uac1c",
     "similarity": [
-      "D065024",
       "D065021",
       "D065015",
       "D065022",
-      "D103033"
+      "D103033",
+      "D103046"
     ]
   },
   {
@@ -1746,11 +1738,11 @@
     "image_type": "\ucc0c\uac1c",
     "image_name": "\ub41c\uc7a5\ucc0c\uac1c",
     "similarity": [
-      "D180086",
       "D180195",
       "D180162",
       "D180087",
-      "D180088"
+      "D180088",
+      "D180004"
     ]
   },
   {
@@ -1761,11 +1753,11 @@
     "image_type": "\ucc0c\uac1c",
     "image_name": "\ub2ed\uacc4\uc7a5",
     "similarity": [
-      "D053007",
       "D053010",
       "D053008",
       "D051109",
-      "D053009"
+      "D053009",
+      "D053011"
     ]
   },
   {
@@ -1776,11 +1768,11 @@
     "image_type": "\ucc0c\uac1c",
     "image_name": "\ub3d9\ud0dc\ucc0c\uac1c",
     "similarity": [
-      "D061016",
       "D061018",
       "D111013",
       "D071011",
-      "D061015"
+      "D061015",
+      "D121011"
     ]
   },
   {
@@ -1791,26 +1783,26 @@
     "image_type": "\ucc1c",
     "image_name": "\ub2ed\ubcf6\uc74c\ud0d5",
     "similarity": [
-      "D112006",
       "D112004",
       "D112003",
       "D072001",
-      "D072018"
+      "D072018",
+      "D112022"
     ]
   },
   {
     "code": "D072015",
     "name": "\ub3fc\uc9c0\uace0\uae30\ubcf4\uc308",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56890",
+    "kfood_name": "\ubcf4\uc308",
     "image_type": "\ucc1c",
     "image_name": "\uc218\uc721",
     "similarity": [
-      "D072015",
       "D140071",
       "D140053",
       "D140045",
-      "D140044"
+      "D140044",
+      "D140050"
     ]
   },
   {
@@ -1821,11 +1813,11 @@
     "image_type": "\ucc1c",
     "image_name": "\uacc4\ub780\ucc1c",
     "similarity": [
-      "D074001",
       "D074009",
       "D284001",
       "D095019",
-      "D021017"
+      "D021017",
+      "D095029"
     ]
   },
   {
@@ -1836,11 +1828,11 @@
     "image_type": "\ucc1c",
     "image_name": "\ud574\ubb3c\ucc1c",
     "similarity": [
-      "D071042",
       "D040016",
       "D051104",
       "D031046",
-      "D052061"
+      "D052061",
+      "D287027"
     ]
   },
   {
@@ -1851,11 +1843,11 @@
     "image_type": "\ucc1c",
     "image_name": "\uc21c\ub300",
     "similarity": [
-      "D074003",
       "D102002",
       "D105006",
       "D103046",
-      "D105008"
+      "D105008",
+      "D105005"
     ]
   },
   {
@@ -1866,11 +1858,11 @@
     "image_type": "\ucc1c",
     "image_name": "\uac08\ube44\ucc1c",
     "similarity": [
-      "D072010",
       "D072006",
       "D072007",
       "D082023",
-      "D082010"
+      "D082010",
+      "D072011"
     ]
   },
   {
@@ -1881,11 +1873,11 @@
     "image_type": "\ucc1c",
     "image_name": "\ucc1c\ub2ed",
     "similarity": [
-      "D072016",
       "D053053",
       "D040033",
       "D051109",
-      "D054010"
+      "D054010",
+      "D054006"
     ]
   },
   {
@@ -1896,11 +1888,11 @@
     "image_type": "\ucc1c",
     "image_name": "\uaf2c\ub9c9\ucc1c",
     "similarity": [
-      "D071006",
       "D133005",
       "D133029",
       "D133028",
-      "D180122"
+      "D180122",
+      "D153003"
     ]
   },
   {
@@ -1911,11 +1903,11 @@
     "image_type": "\ucc1c",
     "image_name": "\uc871\ubc1c",
     "similarity": [
-      "D072005",
       "D180225",
       "D180017",
       "D180189",
-      "D180269"
+      "D180269",
+      "D180256"
     ]
   },
   {
@@ -1926,11 +1918,11 @@
     "image_type": "\ud0d5",
     "image_name": "\uac10\uc790\ud0d5",
     "similarity": [
-      "D053002",
       "D051043",
       "D051002",
       "D031009",
-      "D012028"
+      "D012028",
+      "D051065"
     ]
   },
   {
@@ -1941,11 +1933,11 @@
     "image_type": "\ud0d5",
     "image_name": "\uac08\ube44\ud0d5",
     "similarity": [
-      "D053001",
       "D053020",
       "D053016",
       "D051063",
-      "D051042"
+      "D051042",
+      "D053003"
     ]
   },
   {
@@ -1956,11 +1948,11 @@
     "image_type": "\ud0d5",
     "image_name": "\ucd94\uc5b4\ud0d5",
     "similarity": [
-      "D053058",
       "D051047",
       "D012028",
       "D051044",
-      "D053039"
+      "D053039",
+      "D051046"
     ]
   },
   {
@@ -1971,41 +1963,41 @@
     "image_type": "\ud0d5",
     "image_name": "\uc0bc\uacc4\ud0d5",
     "similarity": [
-      "D053018",
       "D053011",
       "D053009",
       "D012028",
-      "D053010"
+      "D053010",
+      "D053008"
     ]
   },
   {
     "code": "D053020",
     "name": "\uc124\ub801\ud0d5",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56855",
+    "kfood_name": "\uc124\ub801\ud0d5",
     "image_type": "\ud0d5",
     "image_name": "\uacf0\ud0d5 \uc124\ub801\ud0d5",
     "similarity": [
-      "D053020",
       "D053016",
       "D053001",
       "D053003",
-      "D012028"
+      "D012028",
+      "D051048"
     ]
   },
   {
     "code": "D061044",
     "name": "\uc6b0\ub7ed\ub9e4\uc6b4\ud0d5(\uace0\ucd94\uc7a5,\ub41c\uc7a5)",
-    "kfood_code": "0",
-    "kfood_name": "",
+    "kfood_code": "56862",
+    "kfood_name": "\ub300\uad6c\ub9e4\uc6b4\ud0d5",
     "image_type": "\ud0d5",
     "image_name": "\ub9e4\uc6b4\ud0d5",
     "similarity": [
-      "D061044",
       "D071023",
       "D121034",
       "D065008",
-      "D065010"
+      "D065010",
+      "D065007"
     ]
   },
   {
@@ -2016,11 +2008,11 @@
     "image_type": "\ud280\uae40",
     "image_name": "\uace0\ucd94\ud280\uae40",
     "similarity": [
-      "D123002",
       "D123015",
       "D073007",
       "D103054",
-      "D292016"
+      "D292016",
+      "D113016"
     ]
   },
   {
@@ -2031,7 +2023,6 @@
     "image_type": "\ud280\uae40",
     "image_name": "\uc0c8\uc6b0\ud280\uae40",
     "similarity": [
-      "D121026",
       "D081053",
       "D081052"
     ]
@@ -2044,11 +2035,11 @@
     "image_type": "\ud280\uae40",
     "image_name": "\uc624\uc9d5\uc5b4\ud280\uae40",
     "similarity": [
-      "D121033",
       "D101030",
       "D151006",
       "D133015",
-      "D133017"
+      "D133017",
+      "D133016"
     ]
   },
   {
@@ -2059,7 +2050,6 @@
     "image_type": "\ud55c\uacfc",
     "image_name": "\uc57d\uacfc",
     "similarity": [
-      "D022034",
       "D081054",
       "D081053"
     ]
@@ -2072,11 +2062,11 @@
     "image_type": "\ud55c\uacfc",
     "image_name": "\uc57d\uc2dd",
     "similarity": [
-      "D012012",
       "D011003",
       "D012013",
       "D012029",
-      "D114008"
+      "D114008",
+      "D282002"
     ]
   },
   {
@@ -2087,11 +2077,11 @@
     "image_type": "\ud574\ubb3c",
     "image_name": "\uc0b0\ub099\uc9c0",
     "similarity": [
-      "D151002",
       "D081044",
       "D081043",
       "D101028",
-      "D081008"
+      "D081008",
+      "D101006"
     ]
   },
   {
@@ -2102,7 +2092,6 @@
     "image_type": "\ud574\ubb3c",
     "image_name": "\uba4d\uac8c",
     "similarity": [
-      "D151003",
       "D081055",
       "D081054"
     ]
